@@ -1,10 +1,8 @@
 - 
-  group: "Main organizer"
+  group: ""
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Santiago", description: "GDG Santiago - Open and volunteer geek community", link: "https://www.meetup.com/es-ES/gdgsantiagoes/", imageUrl: "gdg-santiago.svg"}  
+    - {name: "GDG Pontevedra", description: "GDG Vigo - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-pontevedra.svg"}
+    - {name: "GDG Vigo", description: "GDG Vigo - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-vigo.svg"}
+    - {name: "GDG Ourense", description: "GDG Ourense - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-ourense.svg"}  
 - 
-  group: "Co-organizers"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
