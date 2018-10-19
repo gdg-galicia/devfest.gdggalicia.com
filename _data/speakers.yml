@@ -24,19 +24,16 @@
     - {name: "github", link: "https://github.com/ficiverson"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Rolando"
+  surname: "Caldas"
+  company: "Altia S.A."
+  title: "Programador Senior en Altia y ex-CTO de Roi Scroll"
+  bio: "Miembro activo de la comunidad de PHP Vigo y un fan absoluto del Clean Code y de DDD. Aunque actualmente soy Programador Senior en Altia, gran parte de mi vida he disfrutado fusionando el mundo del desarrollo con el Marketing como CTO de Roi Scroll e Interacción CIM. En mis inicios estuve involucrado en el software libre a través de la comunidad TruZone."
+  thumbnailUrl: RolandoCaldas.png
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rolandocaldas/"}
+    - {name: "twitter", link: "https://twitter.com/rolando_caldas"}
 - 
   id: 6
   name: "Roman"

@@ -29,13 +29,30 @@
   video: "//www.youtube.com/embed/fq4N0hgOWzU"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Taller de Gitlab CI: Creación, build y CI/CD con Gitlab CI"
+  description: "Gitlab es la alternativa preferida a Github, aunque es mucho más. Gracias a su sistema de registro de contenedores y a tener integrado su propio sistema de CI/CD, es el software perfecto para gestionar la vida de nuestro proyecto en todas sus etapas y fases. En este taller se utilizará la versión libre de Gitlab, Gitlab CE (que puede instalarse en un servidor local) y Docker para llevar a cabo las acciones necesarias para poner en marcha la integración y despliegue continuo de aplicaciones.
+  Se contará con dos pequeños proyectos, uno en PHP y otro en Angular que se incorporarán al Gitlab CE como proyectos diferentes y mediante la CI/CD se verá cómo se comporta la integración y despliegue contínuo de Gitlab.
+
+  <br>Entre otras cosas se verá:<br>
+
+  <lu>
+    <li>Creación de proyectos</li>
+    <li>Definición de los stages de despliegue.</li>
+    <li>Configuración de los runners encargados de ejecutar las tareas de CI/CD.</li>
+    <li>Requerimiento de test unitarios y cálculo de la cobertura de código en el stage CI.</li>
+    <li>Configuración de las acciones de CI/CD en el proyecto.</li>
+    <li>Stage build: construyendo nuestra aplicación.</li>
+    <li>Facilitar desde el repositorio contenedores Docker para el trabajo en local.</li>
+    <li>La problemática de los permisos en los despliegues de entorno web. </li>
+  </ul>
+  <br>
+  <b>Para poder aprovechar al máximo el taller es necesario venir con un portátil con Docker CE instalado (https://docs.docker.com/install/) y git, tener una cuenta en GitHub (https://github.com/) y en Docker Hub (https://hub.docker.com/)</b>"
+
+
   subtype: workshop
   speakers: [5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  language: Español
+  complexity: "Intermedia" 
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
