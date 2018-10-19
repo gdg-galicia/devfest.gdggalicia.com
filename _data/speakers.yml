@@ -1,27 +1,27 @@
 - 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  name: "Jose Juan"
+  surname: "Dios Otero"
+  company: "Plexus Tech"
+  title: "Full Stack Developer & Scrum Master Certified"
+  bio: "Jose Juan es un tech lead fullstack con amplio conocimiento de tecnologías Java, implementación y orquestación de microservicios y definición de arquitecturas escalables y tolerantes a fallos . Actualmente dirige el desarrollo a nivel técnico en proyectos tanto de frontend como de backend en Plexus Tech. Ha trabajado para grandes empresas españolas como Banco Santander, La Caixa, Barcelo Viajes y Air Europa entre otros. Habitualmente imparte formación interna dentro de Plexus tech tanto de front: AngularJS y VueJS, como de backend con Spring(MVC y Rest) o Struts."
+  thumbnailUrl: JoseJuanDiosOtero.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/josejuandiosotero/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Fernando"
+  surname: "Souto"
+  company: "MOBGEN | Part of Accenture Digital"
+  title: "Senior Android Developer and Mobile Expert"
+  bio: '<p>Especialista con amplia experiencia en estrategia móvil, diseño apps, UX apps, desarrollo de apps móviles y monetización de apps móviles.</p>'
+  thumbnailUrl: FernandoSouto.jpeg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fernandosouto/"}
+    - {name: "twitter", link: "https://twitter.com/ficiverson"}
+    - {name: "github", link: "https://github.com/ficiverson"}
 - 
   id: 5
   name: "Mateusz"
