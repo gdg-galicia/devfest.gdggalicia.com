@@ -43,11 +43,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- #- {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Location"}
+ #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Organizadores"}
+ - {permalink: "/logistics/", text: "Lugar"}
  #- {permalink: "/firebase-appfest/", text: "Firebase Appfest"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
@@ -87,7 +87,7 @@ latestNewsTitle: "Últimas noticias"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
 locationBlockTitle: "Ubicación"
@@ -126,42 +126,42 @@ partnersC4sponsorsButton: "Quiero ser patrocinador"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Suscríbete a nuestras novedades"
 subscribeAction: "//gdgvigo.us16.list-manage.com/subscribe/post?u=66b4bb03b0b8f95169952466e&amp;id=50c4e234dc"
 
 # Tickets Block
 ticketsTitle: "Patrocinadores"
 ticketsOffers:
  -
-  name: "Shy guy"
-  price: "150"
+  name: "Plata"
+  price: "300"
   priceCurrency: "€"
   ticketsNumber: "150"
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
   buyButtonText: "Quiero patrocinar"
-  ticketContentList: ["Logo en web", "Diapositiva conjunta", "Mención en social media"]
+  ticketContentList: ["Logo en web", "Diapositiva conjunta", "Mención en redes sociales"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-  name: "Big boss"
+  name: "Platino"
   price: "800"
   priceCurrency: "€"
   ticketsNumber: "800"
   featured: true
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
   buyButtonText: "Quiero patrocinar"
-  ticketContentList: ["All from High five ", "Logo en los títulos de la grabación", "Booth para contratar gente"]
+  ticketContentList: ["Invitación a la cena previa de speakers y organizadores", "Logo en todo el material del evento", "Booth para contratar gente", "Diapositiva propia", "Logo en Camisetas","Logo en web", "Mención en redes sociales"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
  -
-  name: "High five"
-  price: "400"
+  name: "Oro"
+  price: "500"
   priceCurrency: "€"
-  ticketsNumber: "400"
+  ticketsNumber: "500"
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
   buyButtonText: "Quiero patrocinar"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["All from Shy guy", "Diapositiva propia", "Logo en Camisetas"]
+  ticketContentList: ["Logo en web", "Diapositiva propia", "Mención en redes sociales", "Logo en Camisetas"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
 
@@ -174,20 +174,20 @@ socialLinks:
  - {link: "https://github.com/GDGVigo", icon: "github"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Enlaces"
   links:
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contacto"
   links:
    - {link: "mailto:info@gdggalicia.com", text: "info@gdggalicia.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de conducta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas noticias"
 blogCommentsEnabled: true
 discusShortName: "devfest"
 
@@ -195,11 +195,11 @@ discusShortName: "devfest"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "Sobre nosotros"
 aboutUs: "We are a team of 5 GDG organisers, each one with our own speciality. We love what we do for the community: help people, meet people and organise events. We are looking forward to meeting you so if you see any one of us and feel like a chat, just stop us and say hi!"
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
+findWayTitle: "Cómo llegar"
 findWayDistance: "Distance"
 findWayDriving: "DRIVING"
 findWayWalking: "WALKING"
@@ -230,7 +230,7 @@ judgesImage: "judges.jpg"
 judgesTitle: "Judges"
 
 # Hackathon Prizes Block
-prizesTitle: "Prizes"
+prizesTitle: "Regalos"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
