@@ -103,6 +103,7 @@ eventEndTime: "2018-11-17T20:00"
 eventPlaceCoordinates: "42.873358, -8.560104"
 mapCenterCoordinates: "42.873358, -8.560104"
 mapMobileCenterCoordinates: "42.873358, -8.560104"
+mapApiKey : "AIzaSyDDfTsnwiyJM1RgqJ8rvu1cu5HH97WM5EU" #enabled for https://*.gdggalicia.com/ and http://127.0.0.1:4000/
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -200,12 +201,12 @@ aboutUs: "We are a team of 5 GDG organisers, each one with our own speciality. W
 
 # Logistics Find Way Block
 findWayTitle: "Cómo llegar"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
+findWayDistance: "Distancia"
+findWayDriving: "EN COCHE"
+findWayWalking: "ANDANDO"
+findWayBicycling: "EN BICI"
+findWayTransit: "TRANSPORTE PÚBLICO"
+findWayFindFlight: "Busca vuelo"
 logisticsMapCenterCoordinates: "42.240065, -8.720963"
 logisticsMapMobileCenterCoordinates: "42.240065, -8.720963"
 logisticsMapAutoDirections: false

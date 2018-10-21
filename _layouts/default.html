@@ -36,7 +36,10 @@ layout: compress
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
-        window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
+        window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>');
+        var mapApiKey = '{{ site.mapApiKey | replace:' ','' }}';
+        var srcApiStaticMap =  "https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&language=es&key=" + mapApiKey;
+        var srcApiPlaces = "https://maps.googleapis.com/maps/api/js?v=3.exp&language=es&libraries=places,geometry&key=" + mapApiKey;
     </script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script>
@@ -48,12 +51,12 @@ layout: compress
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+            document.write('<script type="text/javascript" src="' + srcApiStaticMap + '"><\/script>')
         } 
     </script>
     {% elsif page.permalink == '/logistics/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
         <script type="text/javascript">
+            document.write('<script type="text/javascript" src="' + srcApiPlaces + '"><\/script>');
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
     {% endif %} 
@@ -130,7 +133,7 @@ layout: compress
             
         {% endif %} 
     </script>
-    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/scripts.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/schedule/' %}
         <script type="text/javascript">
             $(document).ready(function () {
