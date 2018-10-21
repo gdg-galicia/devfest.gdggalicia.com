@@ -66,10 +66,10 @@ heroButtons:
 
 # About Block
 aboutTitle: "Sobre los DevFest"
-aboutIntro: "Los GDG DevFest son eventos a gran escala dirigidos por la comunidad y para la comunidad que se celebran anualmente por todo el mundo. No hay dos DevFest iguales, todos están alimentados por la creencia de que cuando los desarrolladores se reúnen para intercambiar ideas, cosas increíbles pueden suceder."
+aboutIntro: "Los GDG DevFest son eventos a gran escala dirigidos por y para la comunidad. Se celebran anualmente por todo el mundo. No hay dos DevFest iguales, todos están alimentados por la creencia de que cuando los desarrolladores se reúnen para intercambiar ideas, cosas increíbles pueden suceder."
 aboutBlock:
- - {title: "Conferencias", image: "gdg-devfest.png", text: "" }
- - {title: "Talleres", image: "gdgDevelopers.png", text: "" }
+ - {title: "Conferencias", image: "gdg-devfest.png", text: "Charlas de tecnología de menos de una hora, interactivas y amenas. Adaptadas a cualquier público de perfil tecnológico." }
+ - {title: "Talleres", image: "gdgDevelopers.png", text: "Workshops donde los asistentes adquirirán los conceptos de forma práctica y guiada, ejecutando el código directamente en su propio ordenador." }
 
 # Statistic Block
 statisticBlockImage: "numbers-front.jpg"
