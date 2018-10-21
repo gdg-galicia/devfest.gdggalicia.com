@@ -1,9 +1,18 @@
 - 
-  group: "Patrocinadores"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
   group: "Con el apoyo de"
   elements: 
     - {name: "USC", description: "Universidade de Santiago de Compostela", link: "http://www.usc.es/", imageUrl: "usc_logo.svg"}
+- 
+  group: "Patrocinadores Platino"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Plexus Tech", description: "Plexus Tech", link: "https://www.tecnologiasplexus.com/", imageUrl: "plexus.png"}
+- 
+  group: "Patrocinadores Oro"
+  elements: 
+    - {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant/org", imageUrl: "gradiant.png"}
+- 
+  group: "Patrocinadores Plata"
+  elements: 
+    - {name: "aaaa", description: "Plexus Tech", link: "https://www.tecnologiasplexus.com/", imageUrl: "plexus.png"}
+
