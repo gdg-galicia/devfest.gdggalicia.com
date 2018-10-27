@@ -127,7 +127,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Estamos en twitter!"
 twitterHashTag: "DevFestGalicia"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizadores"
@@ -150,8 +150,8 @@ ticketsOffers:
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
   buyButtonText: "Quiero patrocinar"
   ticketContentList: ["Logo en web", "Diapositiva conjunta", "Mención en redes sociales"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2018-10-25T10:00"
+  validThrough: "2018-11-16T23:59"
  -
   name: "Platino"
   price: "800"
@@ -161,8 +161,8 @@ ticketsOffers:
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
   buyButtonText: "Quiero patrocinar"
   ticketContentList: ["Invitación a la cena previa de speakers y organizadores", "Logo en todo el material del evento", "Booth para contratar gente", "Diapositiva propia", "Logo en Camisetas","Logo en web", "Mención en redes sociales"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2018-10-25T10:00"
+  validThrough: "2018-11-16T23:59"
  -
   name: "Oro"
   price: "500"
@@ -171,8 +171,8 @@ ticketsOffers:
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
   buyButtonText: "Quiero patrocinar"
   ticketContentList: ["Logo en web", "Diapositiva propia", "Mención en redes sociales", "Logo en Camisetas"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2018-10-25T10:00"
+  validThrough: "2018-11-16T23:59"
 
 
 # Footer
