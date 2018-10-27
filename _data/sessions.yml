@@ -3,12 +3,32 @@
   title: "Coffee Break"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "El mejor lugar para conocer a los ponentes y asistentes"
+
+-
+  id: 500
+  title: "Registro"
+  place: "Hall de entrada"
+  service: true
+
+-
+  id: 501
+  title: "Bienvenida"
+  place: "Salón de Actos"
+  service: true
+
+-
+  id: 502
+  title: "Cierre de evento"
+  place: "Salón de Actos"
+  service: true
+
 -
   id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  title: "Pausa para comida"
+  place: "Hall"
   service: true
+
 -
   id: 001
   title: "Orquestando microservicios con Spring Cloud Netflix"
@@ -19,8 +39,8 @@
   complexity: "Intermedia"
 -
   id: 002
-  title: "La magia de Flutter"
-  description: "Conoce Flutter un SDK de código abierto para desarrollo de aplicaciones móviles creado por Google. Puede usarse para desarrollar aplicaciones tanto para Android como para iOS; así como base para crear aplicaciones de Google Fuchsia. Los componentes importantes de Flutter incluyen: Flutter engine (C++), Foundation library (Dart) y Design-specific widgets​: Material Design y Cupertino widgets."
+  title: "¿Debes considerar usar Flutter en tu proyecto? "
+  description: "Pues lógicamente depende. Probablemente hayas oído hablar de Flutter que es un SDK desarrollado por Google que nos promete la verdadera experiencia nativa y a la vez multiplataforma (iOS y Android). Es una forma rápida y divertida de crear aplicaciones utilizando el lenguaje Dart y veremos como es posible que valga para la mayoría de apps del mercado. Durante esta charla veremos si Flutter se adapta a tú proyecto y qué ventajas ofrece."
   subtype: presentation
   speakers: [4]
   language: Español
@@ -62,6 +82,43 @@
   language: Español
   complexity: "Básico"
   video: "//www.youtube.com/embed/ZvyrvowZ4wQ"
+
+-
+  id: 005
+  title: "Improving scheduling decisions in Kubernetes"
+  description: "Discover the native APIs that Kubernetes offers you to take ownership of the scheduling process for improving the performance, redundancy and resilience of your applications."
+  subtype: presentation
+  speakers: [10]
+  language: Español
+  complexity: "Intermedia"
+
+-
+  id: 006
+  title: "Coming soon!"
+  description: "Muy pronto lo desvelaremos"
+  subtype: presentation
+  speakers: [8]
+  language: Español
+  complexity: "Intermedia"
+
+-
+  id: 007
+  title: "5 tips y 9 razones para programar en Ruby on Rails"
+  description: "Siempre que empezamos a programar con un nuevo lenguaje o framework queremos encontrar buenas razones para motivarnos, así que vamos preguntando a los más experimentados sus recomendaciones. Encontremos motivos y divertidas razones para programar en este framework."
+  subtype: presentation
+  speakers: [11]
+  language: Español
+  complexity: "Básico"
+
+-
+  id: 008
+  title: "Machine Learning in practice"
+  description: "El taller cubrirá los fundamentos de los principios y prácticas del machine learning, tanto el aprendizaje supervisado como el no supervisado."
+  subtype: workshop
+  speakers: [12,13]
+  language: Español
+  complexity: "Intermedio"
+
 # -
 #   id: 005
 #   title: "Test: Interacting with Google Services using nothing but HTML"

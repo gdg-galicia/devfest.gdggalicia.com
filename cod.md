@@ -1,20 +1,55 @@
 ---
 layout: post
-title: Don't be a jerk policy
-permalink: /cod/
+title: Código de Conducta
+permalink: /code-of-conduct/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__Se requiere que todos los asistentes, ponentes, patrocinadores y voluntarios de nuestra conferencia acepten el 
+siguiente código de conducta. Los organizadores harán cumplir este código a lo largo del evento. Esperamos la 
+colaboración de todos los participantes para ayudar mantener un entorno seguro para todos.__
 
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+#### La versión rápida
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Nuestra conferencia se dedica a ofrecer una experiencia libre de abusos para todos, independientemente de su género, 
+orientación sexual, discapacidad, apariencia física, talla, raza o religión. No toleramos abusos de los participantes
+ de la conferencia en ninguna de sus formas. El lenguaje e imágenes sexuales no son apropiados para ninguna sala de la 
+ conferencia, incluyendo charlas, talleres, fiestas, Twitter y otros medios online. Los participantes de la conferencia que violen estas reglas pueden ser sancionados o expulsados de la misma a discreción de los organizadores.
 
 
-######Contacts:
+#### La versión menos rápida
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+Los abusos incluyen: comentarios ofensivos relativos a género, orientación sexual, discapacidad, apariencia física, 
+talla, raza, religión, imágenes sexuales en espacios públicos, intimidación deliberada, acoso, persecución, fotografía 
+o grabación de abusos, interrupciones continuadas de charlas u otros eventos, contacto físico inapropiado y atención 
+sexual no deseada.
 
+Se espera que los participantes instados a parar cualquier comportamiento abusivo obedezcan inmediatamente.
+
+Los patrocinadores también están sujetos a la política contra abusos. En particular, los patrocinadores no deberían 
+utilizar imágenes, actividades u otro material con contenido sexual. El personal de los puestos (voluntarios incluidos) 
+no debería usar ropa/uniformes/disfraces sexualizados, o que de otra manera crean un ambiente sexualizado.
+
+Si un participante incurre en un comportamiento abusivo, los organizadores de la conferencia pueden tomar cualquier 
+acción que estimen oportuna, incluyendo advertencias al ofensor o su expulsión de la conferencia.
+
+Si estás sufriendo algún abuso, adviertes abusos sobre otra persona, o tienes alguna otra preocupación, por favor
+contacta con algún miembro del personal de la conferencia inmediatamente. El personal de la conferencia puede ser 
+fácilmente identificado, ya que vestirán camisetas del evento.
+
+El personal de la conferencia estará contento de ayudar a los participates a contactar con las autoridades locales, 
+proveer escolta o asistir de otra manera a aquellos que estén sufriendo abusos para que se sientan seguros mientras 
+dure la conferencia. 
+
+Esperamos que los participantes sigan estas reglas en la la conferencia, talleres y eventos sociales relacionados con 
+la conferencia.
+
+
+#### ¿Has tenido un problema con un speaker o un asistente?
+
+Contacta con los miembros de la organización. 
+
+- Búscanos en el evento. Todos llevamos la misma camiseta y acreditación.
+- Envíanos un email a [info@gdggalicia.com](mailto:info@gdggalicia.com)
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

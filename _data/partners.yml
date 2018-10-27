@@ -11,8 +11,10 @@
   group: "Patrocinadores Oro"
   elements: 
     - {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant/org", imageUrl: "gradiant.png"}
+    - {name: "Pendiente de confirmar", description: "Pendiente", link: "", imageUrl: "coming-soon.png"}
 - 
   group: "Patrocinadores Plata"
   elements: 
-    - {name: "aaaa", description: "Plexus Tech", link: "https://www.tecnologiasplexus.com/", imageUrl: "plexus.png"}
+    - {name: "Cocodin", description: "Cocodin Tech", link: "http://www.cocodin.com/", imageUrl: "cocodin.png"}
+    - {name: "Pendiente de confirmar", description: "Pendiente", link: "", imageUrl: "coming-soon.png"}
 

@@ -1,50 +1,92 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2018-11-17"
+  dateReadable: "Charlas"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Charlas", color: "#e91e63"}
   timeslots:
     - {
+        startTime: "09:00",
+        endTime: "09:30",
+        sessionIds: [500]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "10:00",
+        sessionIds: [501]
+    }
+    - {
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+        endTime: "11:00",
+        sessionIds: [001]
     }
     - {
         startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        endTime: "12:00",
+        sessionIds: [002]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+        startTime: "12:00",
+        endTime: "12:30",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "14:30",
+        sessionIds: [005]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:30",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:30",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:30",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [502]
     }
 - 
-  date: "2014-10-25"
-  dateReadable: "October 25"
+  date: "2018-11-17"
+  dateReadable: "Workshops"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "Workshop", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
-    }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
+        startTime: "10:00",
+        endTime: "12:00",
         sessionIds: [003]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+        startTime: "12:00",
+        endTime: "12:30",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "14:30",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:30",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:30",
+        sessionIds: [008]
     }

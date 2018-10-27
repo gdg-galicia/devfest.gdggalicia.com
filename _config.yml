@@ -12,13 +12,19 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDG DevFest Galicia 2018"
 email: "info@gdggalicia.com"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/devfest"
-url: ""
+description: "GDG DevFest es un conjunto de eventos de las comunidades de Google alrededor del mundo"
+baseurl: ""
+url: "http://devfest.gdggalicia.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-109987827-1"
+googleAnalyticsSiteUrl: "devfest.gdggalicia.com"
+siteVerification: "EXdO3QQvjtS2RGFWXqXD6rzYECtFDpWrRRI0Cc31xbc"
+# baseurl: "/devfest"
+# url: ""
+# permalink: "/blog/:title"
+# googleAnalyticsTrackingId: "UA-43643469-5"
+# googleAnalyticsSiteUrl: "gdg-x.github.io"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "GDG Galicia"
@@ -46,23 +52,26 @@ navigationLinks:
  #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Organizadores"}
- - {permalink: "/logistics/", text: "Lugar"}
+ #- {permalink: "/team/", text: "Equipo"}
+ - {permalink: "/logistics/", text: "Ubicación"}
+ - {permalink: "/code-of-conduct/", text: "Código de conducta"}
  #- {permalink: "/firebase-appfest/", text: "Firebase Appfest"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
+ - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Entrada gratuita"}
 
 # Hero Block
 heroImage: "fireworks.jpg"
 heroTitle: "GDG DevFest  <typeout> 2018"
+eventDate: "17 Noviembre 2018, Santiago de Compostela"
 eventData: "ETSE, Santiago de Compostela, 17 de noviembre de 2018"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
- - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Quiero patrocinar"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
+# - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Quiero patrocinar"}
+ - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Quiero asistir - Entrada gratuita"}
 
 # About Block
 aboutTitle: "Sobre los DevFest"
@@ -76,7 +85,7 @@ statisticBlockImage: "numbers-front.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "", info: "asistentes"}
  - {count: "8", specialCharacter: "", info: "horas"}
- - {count: "8", specialCharacter: "", info: "ponentes"}
+ - {count: "9", specialCharacter: "", info: "ponentes"}
  - {count: "2", specialCharacter: "", info: "tracks"}
 
 
@@ -116,8 +125,8 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+tweetsFeedTitle: "Estamos en twitter!"
+twitterHashTag: "DevFestGalicia"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -161,7 +170,6 @@ ticketsOffers:
   ticketsNumber: "500"
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
   buyButtonText: "Quiero patrocinar"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Logo en web", "Diapositiva propia", "Mención en redes sociales", "Logo en Camisetas"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
@@ -190,7 +198,7 @@ footerBlocks:
 # Blog
 blogTitle: "Últimas noticias"
 blogCommentsEnabled: true
-discusShortName: "devfest"
+discusShortName: "DevFestGalicia"
 
 # Speakers List Block
 showSessions: true

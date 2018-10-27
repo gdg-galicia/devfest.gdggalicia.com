@@ -34,20 +34,6 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/rolandocaldas/"}
     - {name: "twitter", link: "https://twitter.com/rolando_caldas"}
-# - 
-#   id: 6
-#   name: "Roman"
-#   surname: "Mazur"
-#   company: "Stanfy, GDG Kyiv"
-#   title: "Head of Android/Java Unit"
-#   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-#   thumbnailUrl: RomanMazur.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
   name: "Mercedes"
@@ -60,3 +46,78 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/mrodriguez-garcia/"}
     - {name: "twitter", link: "https://twitter.com/mgarod3"}
+
+-
+  id: 8
+  name: "Bárbara"
+  surname: "Román"
+  company: "NoLegalTech"
+  title: "CEO y co-fundadora de NoLegalTech"
+  bio: "Bárbara es abogada experta en tecnología. Lidera NoLegalTech, una consultora legal especializada en prestar servicios a empresas de tecnología, fundamentalmente desarrolladoras de software. A mayores, imparte charlas y seminarios acerca de las implicaciones legales en el ámbito del desarrollo de software."
+  thumbnailUrl: BarbaraRoman.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/mynetwork/invite-sent/bárbara-román-méndez-3b1b80138"}
+    - {name: "twitter", link: "https://twitter.com/abogadopenal"}
+# - 
+#   id: 9
+#   name: "Rita"
+#   surname: "Pereira"
+#   company: "MOBGEN | Part of Accenture Digital"
+#   title: "IOS Developer"
+#   bio : "Rita actualmente trabaja como IOS developer en Mogben. Participa habitualmente impartiendo charlas en eventos de tecnología, como Women Techmakers Galicia 2018."
+#   thumbnailUrl: RitaPereira.png
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/rita-pereira-calvi%C3%B1o-1a969b40/"}
+#     - {name: "twitter", link: "https://twitter.com/rita_pereirac"}
+-
+  id: 10
+  name: "Javier"
+  surname: "Provecho"
+  company: "Telefónica"
+  title: "Release Engineer at 4th Platform"
+  bio: "Javier es un ingeniero de despliegue y <i>GDE for Cloud</i> que trabaja con la herramienta Cloud Native para implementar y escalar proyectos cloud. Coorganiza la comunidad de Docker Madrid y otros grupos de la región. También mantiene el framework web Gin-Gonic. A Javier le gusta leer novelas históricas y volar su dron por el horizonte."
+  thumbnailUrl: JavierProvecho.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/javierprovecho/"}
+    - {name: "twitter", link: "https://twitter.com/javierprovecho"}
+  ribbon:
+    - {abbr: "GDE for Cloud", title: "Google Developer Expert for Cloud", url: "https://developers.google.com/experts/"}
+-
+  id: 11
+  name: "Betsabeth "
+  surname: "Torres"
+  company: "Freelance y RailsGirls Venezuela"
+  title: "Freelance Web Developer"
+  bio: "Líder y fundadora de la comunidad @railsgirlsve. Activista de software libre y apasionada por la ciberseguridad y el desarrollo de software."
+  thumbnailUrl: BetsabethTorres.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/betsabethtorres/"}
+    - {name: "twitter", link: "https://twitter.com/kyaalena"}
+-
+  id: 12
+  name: "Marta"
+  surname: "Sestelo"
+  company: "Gradiant"
+  title: "PhD Statistics & Senior Data Scientist"
+  bio: "Marta es Senior Data Scientist en Gradiant (Centro de Investigación y Desarrollo de Galicia en Telecomunicaciones Avanzadas). Anteriormente, fue investigadora postdoctoral en el Centro de Matemáticas (CMAT) de la Universidad de Minho. Posee un doctorado de la Universidad de Vigo en Estadística y O.R. Su especialidad se centra en el desarrollo de nuevas metodologías y algoritmos vinculados con la estadística."
+  thumbnailUrl: MartaSestelo.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marta-sestelo-0122895a/"}
+    - {name: "site", link: "http://sestelo.github.io"}
+-
+  id: 13
+  name: "Nora M."
+  surname: "Villanueva"
+  company: "Gradiant"
+  title: "Senior Researcher - Data Scientist"
+  bio: "Nora es Senior Researcher y Data Scientist at @Gradiant. Actualmente es estudiante Phd en Estadística y O.R. por la Universidad de Vigo."
+  thumbnailUrl: NoraVillanueva.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nora-m-villanueva-9073781b/"}
+    - {name: "site", link: "http://noramvillanueva.github.io"}
