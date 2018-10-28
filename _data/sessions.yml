@@ -39,8 +39,8 @@
   complexity: "Intermedia"
 -
   id: 002
-  title: "¿Debes considerar usar Flutter en tu proyecto? "
-  description: "Pues lógicamente depende. Probablemente hayas oído hablar de Flutter que es un SDK desarrollado por Google que nos promete la verdadera experiencia nativa y a la vez multiplataforma (iOS y Android). Es una forma rápida y divertida de crear aplicaciones utilizando el lenguaje Dart y veremos como es posible que valga para la mayoría de apps del mercado. Durante esta charla veremos si Flutter se adapta a tú proyecto y qué ventajas ofrece."
+  title: "La magia de Flutter"
+  description: "¿Debes considerar usar Flutter en tu proyecto? Pues lógicamente depende. Probablemente hayas oído hablar de Flutter, que es un SDK desarrollado por Google que nos promete la verdadera experiencia nativa y a la vez multiplataforma (iOS y Android). Es una forma rápida y divertida de crear aplicaciones utilizando el lenguaje Dart y veremos como es posible que valga para la mayoría de apps del mercado. Durante esta charla veremos si Flutter se adapta a tú proyecto y qué ventajas ofrece."
   subtype: presentation
   speakers: [4]
   language: Español
