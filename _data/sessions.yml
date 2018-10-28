@@ -19,13 +19,13 @@
 
 -
   id: 502
-  title: "Cierre de evento"
+  title: "Cierre de evento. <b>Sorteo de productos de Google (Google Home Mini y Chromecast).</b>"
   place: "Salón de Actos"
   service: true
 
 -
   id: 503
-  title: "Pausa para comida"
+  title: "Pausa para comida. <b>Comida gratis</b> para todos los asistentes."
   place: "Hall"
   service: true
 

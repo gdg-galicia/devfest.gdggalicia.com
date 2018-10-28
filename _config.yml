@@ -35,8 +35,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://developers.google.com/groups/chapter/106284181570326060854/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, vigo, galicia, santiago, santiago de compostela"
-twitterAccount: "@GDGGalicia"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, vigo, galicia, santiago, santiago de compostela, ourense, pontevedra"
+twitterAccount: "@gdggalicia"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -83,7 +83,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "numbers-front.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "", info: "asistentes"}
+ - {count: "180", specialCharacter: "", info: "asistentes"}
  - {count: "8", specialCharacter: "", info: "horas"}
  - {count: "9", specialCharacter: "", info: "ponentes"}
  - {count: "2", specialCharacter: "", info: "tracks"}
@@ -177,10 +177,10 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/communities/104458805154699272096", icon: "google-plus"}
+ #- {link: "https://plus.google.com/communities/104458805154699272096", icon: "google-plus"}
  - {link: "https://twitter.com/gdggalicia", icon: "twitter"}
- - {link: "https://www.facebook.com/pg/googledevelopergroupvigo/about/", icon: "facebook"}
- - {link: "https://github.com/GDGVigo", icon: "github"}
+ - {link: "https://www.facebook.com/gdgsantiagoes/", icon: "facebook"}
+ - {link: "https://github.com/gdg-galicia", icon: "github"}
 footerBlocks:
  -
   title: "Enlaces"
