@@ -5,37 +5,32 @@
     - {title: "Charlas", color: "#e91e63"}
   timeslots:
     - {
-        startTime: "09:00",
-        endTime: "09:30",
+        startTime: "10:00",
+        endTime: "10:30",
         sessionIds: [500]
     }
     - {
-        startTime: "09:30",
-        endTime: "10:00",
+        startTime: "10:30",
+        endTime: "11:00",
         sessionIds: [501]
     }
     - {
-    	startTime: "10:00",
-        endTime: "11:00",
-        sessionIds: [001]
-    }
-    - {
-        startTime: "11:00",
+    	startTime: "11:00",
         endTime: "12:00",
-        sessionIds: [002]
+        sessionIds: [001]
     }
     - {
         startTime: "12:00",
         endTime: "12:30",
         sessionIds: [307]
     }
-    # - {
-    #     startTime: "12:30",
-    #     endTime: "13:30",
-    #     sessionIds: [004]
-    # }
     - {
         startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [002]
+    }
+    - {
+        startTime: "13:30",
         endTime: "14:30",
         sessionIds: [005]
     }
@@ -66,9 +61,9 @@
     - {title: "Workshop", color: "#03a9f4"}
   timeslots: 
     - {
-        startTime: "10:00",
+        startTime: "11:00",
         endTime: "12:00",
-        sessionIds: [003]
+        sessionIds: [008]
     }
     - {
         startTime: "12:00",
@@ -78,7 +73,7 @@
     - {
         startTime: "12:30",
         endTime: "14:30",
-        sessionIds: [004]
+        sessionIds: [003]
     }
     - {
         startTime: "14:30",
@@ -87,6 +82,6 @@
     }
     - {
         startTime: "15:30",
-        endTime: "16:30",
-        sessionIds: [008]
+        endTime: "17:00",
+        sessionIds: [004]
     }
