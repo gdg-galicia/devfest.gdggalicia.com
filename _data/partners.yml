@@ -11,10 +11,10 @@
   group: "Patrocinadores Oro"
   elements: 
     - {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant/org", imageUrl: "gradiant.png"}
-    - {name: "Pendiente de confirmar", description: "Pendiente", link: "", imageUrl: "coming-soon.png"}
+    - {name: "R", description: "R", link: "https://www.mundo-r.com/es", imageUrl: "logoR.png"}
 - 
   group: "Patrocinadores Plata"
   elements: 
     - {name: "Cocodin", description: "Cocodin Tech", link: "http://www.cocodin.com/", imageUrl: "cocodin.png"}
-    - {name: "Pendiente de confirmar", description: "Pendiente", link: "", imageUrl: "coming-soon.png"}
+    - {name: "Optare", description: "Optare Solutions", link: "https://optaresolutions.com/", imageUrl: "optare.png"}
 
