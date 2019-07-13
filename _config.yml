@@ -42,7 +42,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link"
+c4pUrl: "https://docs.google.com/forms/d/1aKO4v46Sg_ttjyqm1-2D4TzLRpU2XSc6yRUlKT7bPG4"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -57,21 +57,21 @@ navigationLinks:
  - {permalink: "/code-of-conduct/", text: "Código de conducta"}
  #- {permalink: "/firebase-appfest/", text: "Firebase Appfest"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
+ - {link: "https://docs.google.com/forms/d/1aKO4v46Sg_ttjyqm1-2D4TzLRpU2XSc6yRUlKT7bPG4", text: "Quiero dar una charla"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Entrada gratuita"}
+# - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Entrada gratuita"}
 
 # Hero Block
 heroImage: "fireworks.jpg"
-heroTitle: "GDG DevFest  <typeout> 2018"
-eventDate: "17 Noviembre 2018, Santiago de Compostela"
-eventData: "ETSE, Santiago de Compostela, 17 de noviembre de 2018"
+heroTitle: "GDG DevFest  <typeout> 2019"
+eventDate: "26 Octubre, Ourense"
+eventData: "ESEI - Escola Superior de Enxeñería Informática, Ourense, 17 de noviembre de 2018"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Season"
 heroButtons:
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
-# - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Quiero patrocinar"}
- - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Quiero asistir - Entrada gratuita"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
+ - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Quiero patrocinar"}
+# - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Quiero asistir - Entrada gratuita"}
 
 # About Block
 aboutTitle: "Sobre los DevFest"
@@ -100,28 +100,28 @@ rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
 locationBlockTitle: "Ubicación"
-eventLocationName: "Escola Técnica Superior de Enxeñaría"
-eventStreetAddress: "Rúa de Lope Gómez de Marzoa, s/n, 15705 Santiago de Compostela, A Coruña"
-eventAddressLocality: "Santiago de Compostela"
-eventAddressLocalityRegion: "A Coruña"
+eventLocationName: "ESEI - Escola Superior de Enxeñería Informática"
+eventStreetAddress: "Edificio Politécnico s/n, 32004, Ourense"
+eventAddressLocality: "Ourense"
+eventAddressLocalityRegion: "Ourense"
 eventPostalCode: "15782"
 eventAddressCountry: "Spain"
-eventStartTime: "2018-11-17T11:00"
+eventStartTime: "2019-10-267T11:00"
 eventDoorTime: "10:00"
-eventEndTime: "2018-11-17T18:00"
-eventPlaceCoordinates: "42.873358, -8.560104"
-mapCenterCoordinates: "42.873358, -8.560104"
-mapMobileCenterCoordinates: "42.873358, -8.560104"
+eventEndTime: "2019-10-26T18:00"
+eventPlaceCoordinates: "42.3448097,-7.8551765"
+mapCenterCoordinates: "42.3448097,-7.8551765"
+mapMobileCenterCoordinates: "42.3448097,-7.8551765"
 mapApiKey : "AIzaSyDDfTsnwiyJM1RgqJ8rvu1cu5HH97WM5EU" #enabled for https://*.gdggalicia.com/ and http://127.0.0.1:4000/
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Lugar del evento"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "ESEI - Escola Superior de Enxeñería Informática"
+venueFeatures: ["Ourense", "Salón de actos", "Aulas para talleres"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -215,8 +215,8 @@ findWayWalking: "ANDANDO"
 findWayBicycling: "EN BICI"
 findWayTransit: "TRANSPORTE PÚBLICO"
 findWayFindFlight: "Busca vuelo"
-logisticsMapCenterCoordinates: "42.240065, -8.720963"
-logisticsMapMobileCenterCoordinates: "42.240065, -8.720963"
+logisticsMapCenterCoordinates: "42.3448097,-7.8551765"
+logisticsMapMobileCenterCoordinates: "42.3448097,-7.8551765"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block

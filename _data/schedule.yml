@@ -1,87 +1,87 @@
-- 
-  date: "2018-11-17"
-  dateReadable: "Charlas"
-  tracks: 
-    - {title: "Charlas", color: "#e91e63"}
-  timeslots:
-    - {
-        startTime: "10:00",
-        endTime: "10:30",
-        sessionIds: [500]
-    }
-    - {
-        startTime: "10:30",
-        endTime: "11:00",
-        sessionIds: [501]
-    }
-    - {
-    	startTime: "11:00",
-        endTime: "12:00",
-        sessionIds: [001]
-    }
-    - {
-        startTime: "12:00",
-        endTime: "12:30",
-        sessionIds: [307]
-    }
-    - {
-        startTime: "12:30",
-        endTime: "13:30",
-        sessionIds: [002]
-    }
-    - {
-        startTime: "13:30",
-        endTime: "14:30",
-        sessionIds: [005]
-    }
-    - {
-        startTime: "14:30",
-        endTime: "15:30",
-        sessionIds: [503]
-    }
-    - {
-        startTime: "15:30",
-        endTime: "16:30",
-        sessionIds: [006]
-    }
-    - {
-        startTime: "16:30",
-        endTime: "17:30",
-        sessionIds: [007]
-    }
-    - {
-        startTime: "17:30",
-        endTime: "18:00",
-        sessionIds: [502]
-    }
-- 
-  date: "2018-11-17"
-  dateReadable: "Workshops"
-  tracks: 
-    - {title: "Workshop", color: "#03a9f4"}
-  timeslots: 
-    - {
-        startTime: "11:00",
-        endTime: "12:00",
-        sessionIds: [008]
-    }
-    - {
-        startTime: "12:00",
-        endTime: "12:30",
-        sessionIds: [307]
-    }
-    - {
-        startTime: "12:30",
-        endTime: "14:30",
-        sessionIds: [003]
-    }
-    - {
-        startTime: "14:30",
-        endTime: "15:30",
-        sessionIds: [503]
-    }
-    - {
-        startTime: "15:30",
-        endTime: "17:00",
-        sessionIds: [004]
-    }
+# - 
+#   date: "2019-10-26"
+#   dateReadable: "Charlas"
+#   tracks: 
+#     - {title: "Charlas", color: "#e91e63"}
+#   timeslots:
+#     - {
+#         startTime: "10:00",
+#         endTime: "10:30",
+#         sessionIds: [500]
+#     }
+#     - {
+#         startTime: "10:30",
+#         endTime: "11:00",
+#         sessionIds: [501]
+#     }
+#     - {
+#     	startTime: "11:00",
+#         endTime: "12:00",
+#         sessionIds: [001]
+#     }
+#     - {
+#         startTime: "12:00",
+#         endTime: "12:30",
+#         sessionIds: [307]
+#     }
+#     - {
+#         startTime: "12:30",
+#         endTime: "13:30",
+#         sessionIds: [002]
+#     }
+#     - {
+#         startTime: "13:30",
+#         endTime: "14:30",
+#         sessionIds: [005]
+#     }
+#     - {
+#         startTime: "14:30",
+#         endTime: "15:30",
+#         sessionIds: [503]
+#     }
+#     - {
+#         startTime: "15:30",
+#         endTime: "16:30",
+#         sessionIds: [006]
+#     }
+#     - {
+#         startTime: "16:30",
+#         endTime: "17:30",
+#         sessionIds: [007]
+#     }
+#     - {
+#         startTime: "17:30",
+#         endTime: "18:00",
+#         sessionIds: [502]
+#     }
+# - 
+#   date: "2018-11-17"
+#   dateReadable: "Workshops"
+#   tracks: 
+#     - {title: "Workshop", color: "#03a9f4"}
+#   timeslots: 
+#     - {
+#         startTime: "11:00",
+#         endTime: "12:00",
+#         sessionIds: [008]
+#     }
+#     - {
+#         startTime: "12:00",
+#         endTime: "12:30",
+#         sessionIds: [307]
+#     }
+#     - {
+#         startTime: "12:30",
+#         endTime: "14:30",
+#         sessionIds: [003]
+#     }
+#     - {
+#         startTime: "14:30",
+#         endTime: "15:30",
+#         sessionIds: [503]
+#     }
+#     - {
+#         startTime: "15:30",
+#         endTime: "17:00",
+#         sessionIds: [004]
+#     }

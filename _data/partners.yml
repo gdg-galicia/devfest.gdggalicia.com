@@ -1,20 +1,20 @@
 - 
   group: "Con el apoyo de"
   elements: 
-    - {name: "USC", description: "Universidade de Santiago de Compostela", link: "http://www.usc.es/", imageUrl: "usc_logo.svg"}
+    - {name: "Uvigo", description: "Universidade de Vigo", link: "http://www.vigo.gal", imageUrl: "uvigo.svg"}
 - 
   group: "Patrocinadores Platino"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "Plexus Tech", description: "Plexus Tech", link: "https://www.tecnologiasplexus.com/", imageUrl: "plexus.png"}
+    - {name: "Raiola Networks", description: "Raiola", link: "https://raiolanetworks.es/", imageUrl: "raiola.png"}
 - 
   group: "Patrocinadores Oro"
   elements: 
-    - {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant/org", imageUrl: "gradiant.png"}
-    - {name: "R", description: "R", link: "https://www.mundo-r.com/es", imageUrl: "logoR.png"}
+    #- {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant/org", imageUrl: "gradiant.png"}
+    #- {name: "R", description: "R", link: "https://www.mundo-r.com/es", imageUrl: "logoR.png"}
 - 
   group: "Patrocinadores Plata"
   elements: 
-    - {name: "Cocodin", description: "Cocodin Tech", link: "http://www.cocodin.com/", imageUrl: "cocodin.png"}
-    - {name: "Optare", description: "Optare Solutions", link: "https://optaresolutions.com/", imageUrl: "optare.png"}
+    #- {name: "Cocodin", description: "Cocodin Tech", link: "http://www.cocodin.com/", imageUrl: "cocodin.png"}
+    #- {name: "Optare", description: "Optare Solutions", link: "https://optaresolutions.com/", imageUrl: "optare.png"}
 

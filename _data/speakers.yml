@@ -1,123 +1,123 @@
-- 
-  id: 3
-  name: "Jose Juan"
-  surname: "Dios Otero"
-  company: "Plexus Tech"
-  title: "Full Stack Developer & Scrum Master Certified"
-  bio: "Jose Juan es un tech lead fullstack con amplio conocimiento de tecnologías Java, implementación y orquestación de microservicios y definición de arquitecturas escalables y tolerantes a fallos . Actualmente dirige el desarrollo a nivel técnico en proyectos tanto de frontend como de backend en Plexus Tech. Ha trabajado para grandes empresas españolas como Banco Santander, La Caixa, Barcelo Viajes y Air Europa entre otros. Habitualmente imparte formación interna dentro de Plexus Tech tanto de front: AngularJS y VueJS, como de backend con Spring(MVC y Rest) o Struts."
-  thumbnailUrl: JoseJuanDiosOtero.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/josejuandiosotero/"}
-- 
-  id: 4
-  name: "Fernando"
-  surname: "Souto"
-  company: "MOBGEN | Part of Accenture Digital"
-  title: "Senior Android Developer and Mobile Expert"
-  bio: '<p>Especialista con amplia experiencia en estrategia móvil, diseño apps, UX apps, desarrollo de apps móviles y monetización de apps móviles.</p>'
-  thumbnailUrl: FernandoSouto.jpeg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fernandosouto/"}
-    - {name: "twitter", link: "https://twitter.com/ficiverson"}
-    - {name: "github", link: "https://github.com/ficiverson"}
-- 
-  id: 5
-  name: "Rolando"
-  surname: "Caldas"
-  company: "Altia S.A."
-  title: "Programador Senior en Altia y ex-CTO de Roi Scroll"
-  bio: "Miembro activo de la comunidad de PHP Vigo y un fan absoluto del Clean Code y de DDD. Aunque actualmente soy Programador Senior en Altia, gran parte de mi vida he disfrutado fusionando el mundo del desarrollo con el Marketing como CTO de Roi Scroll e Interacción CIM. En mis inicios estuve involucrado en el software libre a través de la comunidad TruZone."
-  thumbnailUrl: RolandoCaldas.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rolandocaldas/"}
-    - {name: "twitter", link: "https://twitter.com/rolando_caldas"}
-- 
-  id: 7
-  name: "Mercedes"
-  surname: "Rodríguez"
-  company: "1millionBot"
-  title: "R&D Manager"
-  bio: "Mercedes es traductora y programadora y actualmente trabaja para la empresa 1millionbot desarrollando chatbots y actions on Google. Entre sus desarrollos están Lola, un chatbot que proporciona información a los alumnos de la universidad de Murcia; o el action Observatorio Fintech, en el que puedes hablar con Criptina, una experta en criptomonedas y blockchain."
-  thumbnailUrl: MercedesRodriguez.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mrodriguez-garcia/"}
-    - {name: "twitter", link: "https://twitter.com/mgarod3"}
-
--
-  id: 8
-  name: "Bárbara"
-  surname: "Román"
-  company: "NoLegalTech"
-  title: "CEO y co-fundadora de NoLegalTech"
-  bio: "Abogada especializada en derecho tecnológico, actualmente CEO en NoLegalTech. Co-organizadora del San Simón Blockchain Fórum y del Congreso legaltech de Donosti, responsable de la plataforma Ellaslegal.tech, es una apasionada de la innovación legal."
-  thumbnailUrl: BarbaraRoman.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/mynetwork/invite-sent/bárbara-román-méndez-3b1b80138"}
-    - {name: "twitter", link: "https://twitter.com/abogadopenal"}
 # - 
-#   id: 9
-#   name: "Rita"
-#   surname: "Pereira"
-#   company: "MOBGEN | Part of Accenture Digital"
-#   title: "IOS Developer"
-#   bio : "Rita actualmente trabaja como IOS developer en Mogben. Participa habitualmente impartiendo charlas en eventos de tecnología, como Women Techmakers Galicia 2018."
-#   thumbnailUrl: RitaPereira.png
+#   id: 3
+#   name: "Jose Juan"
+#   surname: "Dios Otero"
+#   company: "Plexus Tech"
+#   title: "Full Stack Developer & Scrum Master Certified"
+#   bio: "Jose Juan es un tech lead fullstack con amplio conocimiento de tecnologías Java, implementación y orquestación de microservicios y definición de arquitecturas escalables y tolerantes a fallos . Actualmente dirige el desarrollo a nivel técnico en proyectos tanto de frontend como de backend en Plexus Tech. Ha trabajado para grandes empresas españolas como Banco Santander, La Caixa, Barcelo Viajes y Air Europa entre otros. Habitualmente imparte formación interna dentro de Plexus Tech tanto de front: AngularJS y VueJS, como de backend con Spring(MVC y Rest) o Struts."
+#   thumbnailUrl: JoseJuanDiosOtero.png
 #   rockstar: true
 #   social: 
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/rita-pereira-calvi%C3%B1o-1a969b40/"}
-#     - {name: "twitter", link: "https://twitter.com/rita_pereirac"}
--
-  id: 10
-  name: "Javier"
-  surname: "Provecho"
-  company: "Telefónica"
-  title: "Release Engineer at 4th Platform"
-  bio: "Javier es un ingeniero de despliegue y <i>GDE for Cloud</i> que trabaja con la herramienta Cloud Native para implementar y escalar proyectos cloud. Coorganiza la comunidad de Docker Madrid y otros grupos de la región. También mantiene el framework web Gin-Gonic. A Javier le gusta leer novelas históricas y volar su dron por el horizonte."
-  thumbnailUrl: JavierProvecho.png
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/javierprovecho/"}
-    - {name: "twitter", link: "https://twitter.com/javierprovecho"}
-  ribbon:
-    - {abbr: "GDE for Cloud", title: "Google Developer Expert for Cloud", url: "https://developers.google.com/experts/"}
--
-  id: 11
-  name: "Betsabeth "
-  surname: "Torres"
-  company: "Freelance y RailsGirls Venezuela"
-  title: "Freelance Web Developer"
-  bio: "Líder y fundadora de la comunidad @railsgirlsve. Activista de software libre y apasionada por la ciberseguridad y el desarrollo de software."
-  thumbnailUrl: BetsabethTorres.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/betsabethtorres/"}
-    - {name: "twitter", link: "https://twitter.com/kyaalena"}
--
-  id: 12
-  name: "Marta"
-  surname: "Sestelo"
-  company: "Gradiant"
-  title: "PhD Statistics & Senior Data Scientist"
-  bio: "Marta es Senior Data Scientist en Gradiant (Centro de Investigación y Desarrollo de Galicia en Telecomunicaciones Avanzadas). Anteriormente, fue investigadora postdoctoral en el Centro de Matemáticas (CMAT) de la Universidad de Minho. Posee un doctorado de la Universidad de Vigo en Estadística y O.R. Su especialidad se centra en el desarrollo de nuevas metodologías y algoritmos vinculados con la estadística."
-  thumbnailUrl: MartaSestelo.png
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/marta-sestelo-0122895a/"}
-    - {name: "site", link: "http://sestelo.github.io"}
--
-  id: 13
-  name: "Nora M."
-  surname: "Villanueva"
-  company: "Gradiant"
-  title: "Senior Researcher - Data Scientist"
-  bio: "Nora es Senior Researcher y Data Scientist at @Gradiant. Actualmente es estudiante Phd en Estadística y O.R. por la Universidad de Vigo."
-  thumbnailUrl: NoraVillanueva.png
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nora-m-villanueva-9073781b/"}
-    - {name: "site", link: "http://noramvillanueva.github.io"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/josejuandiosotero/"}
+# - 
+#   id: 4
+#   name: "Fernando"
+#   surname: "Souto"
+#   company: "MOBGEN | Part of Accenture Digital"
+#   title: "Senior Android Developer and Mobile Expert"
+#   bio: '<p>Especialista con amplia experiencia en estrategia móvil, diseño apps, UX apps, desarrollo de apps móviles y monetización de apps móviles.</p>'
+#   thumbnailUrl: FernandoSouto.jpeg
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/fernandosouto/"}
+#     - {name: "twitter", link: "https://twitter.com/ficiverson"}
+#     - {name: "github", link: "https://github.com/ficiverson"}
+# - 
+#   id: 5
+#   name: "Rolando"
+#   surname: "Caldas"
+#   company: "Altia S.A."
+#   title: "Programador Senior en Altia y ex-CTO de Roi Scroll"
+#   bio: "Miembro activo de la comunidad de PHP Vigo y un fan absoluto del Clean Code y de DDD. Aunque actualmente soy Programador Senior en Altia, gran parte de mi vida he disfrutado fusionando el mundo del desarrollo con el Marketing como CTO de Roi Scroll e Interacción CIM. En mis inicios estuve involucrado en el software libre a través de la comunidad TruZone."
+#   thumbnailUrl: RolandoCaldas.png
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/rolandocaldas/"}
+#     - {name: "twitter", link: "https://twitter.com/rolando_caldas"}
+# - 
+#   id: 7
+#   name: "Mercedes"
+#   surname: "Rodríguez"
+#   company: "1millionBot"
+#   title: "R&D Manager"
+#   bio: "Mercedes es traductora y programadora y actualmente trabaja para la empresa 1millionbot desarrollando chatbots y actions on Google. Entre sus desarrollos están Lola, un chatbot que proporciona información a los alumnos de la universidad de Murcia; o el action Observatorio Fintech, en el que puedes hablar con Criptina, una experta en criptomonedas y blockchain."
+#   thumbnailUrl: MercedesRodriguez.png
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/mrodriguez-garcia/"}
+#     - {name: "twitter", link: "https://twitter.com/mgarod3"}
+
+# -
+#   id: 8
+#   name: "Bárbara"
+#   surname: "Román"
+#   company: "NoLegalTech"
+#   title: "CEO y co-fundadora de NoLegalTech"
+#   bio: "Abogada especializada en derecho tecnológico, actualmente CEO en NoLegalTech. Co-organizadora del San Simón Blockchain Fórum y del Congreso legaltech de Donosti, responsable de la plataforma Ellaslegal.tech, es una apasionada de la innovación legal."
+#   thumbnailUrl: BarbaraRoman.png
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/mynetwork/invite-sent/bárbara-román-méndez-3b1b80138"}
+#     - {name: "twitter", link: "https://twitter.com/abogadopenal"}
+# # - 
+# #   id: 9
+# #   name: "Rita"
+# #   surname: "Pereira"
+# #   company: "MOBGEN | Part of Accenture Digital"
+# #   title: "IOS Developer"
+# #   bio : "Rita actualmente trabaja como IOS developer en Mogben. Participa habitualmente impartiendo charlas en eventos de tecnología, como Women Techmakers Galicia 2018."
+# #   thumbnailUrl: RitaPereira.png
+# #   rockstar: true
+# #   social: 
+# #     - {name: "linkedin", link: "https://www.linkedin.com/in/rita-pereira-calvi%C3%B1o-1a969b40/"}
+# #     - {name: "twitter", link: "https://twitter.com/rita_pereirac"}
+# -
+#   id: 10
+#   name: "Javier"
+#   surname: "Provecho"
+#   company: "Telefónica"
+#   title: "Release Engineer at 4th Platform"
+#   bio: "Javier es un ingeniero de despliegue y <i>GDE for Cloud</i> que trabaja con la herramienta Cloud Native para implementar y escalar proyectos cloud. Coorganiza la comunidad de Docker Madrid y otros grupos de la región. También mantiene el framework web Gin-Gonic. A Javier le gusta leer novelas históricas y volar su dron por el horizonte."
+#   thumbnailUrl: JavierProvecho.png
+#   rockstar: true
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/javierprovecho/"}
+#     - {name: "twitter", link: "https://twitter.com/javierprovecho"}
+#   ribbon:
+#     - {abbr: "GDE for Cloud", title: "Google Developer Expert for Cloud", url: "https://developers.google.com/experts/"}
+# -
+#   id: 11
+#   name: "Betsabeth "
+#   surname: "Torres"
+#   company: "Freelance y RailsGirls Venezuela"
+#   title: "Freelance Web Developer"
+#   bio: "Líder y fundadora de la comunidad @railsgirlsve. Activista de software libre y apasionada por la ciberseguridad y el desarrollo de software."
+#   thumbnailUrl: BetsabethTorres.jpg
+#   rockstar: true
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/betsabethtorres/"}
+#     - {name: "twitter", link: "https://twitter.com/kyaalena"}
+# -
+#   id: 12
+#   name: "Marta"
+#   surname: "Sestelo"
+#   company: "Gradiant"
+#   title: "PhD Statistics & Senior Data Scientist"
+#   bio: "Marta es Senior Data Scientist en Gradiant (Centro de Investigación y Desarrollo de Galicia en Telecomunicaciones Avanzadas). Anteriormente, fue investigadora postdoctoral en el Centro de Matemáticas (CMAT) de la Universidad de Minho. Posee un doctorado de la Universidad de Vigo en Estadística y O.R. Su especialidad se centra en el desarrollo de nuevas metodologías y algoritmos vinculados con la estadística."
+#   thumbnailUrl: MartaSestelo.png
+#   rockstar: true
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/marta-sestelo-0122895a/"}
+#     - {name: "site", link: "http://sestelo.github.io"}
+# -
+#   id: 13
+#   name: "Nora M."
+#   surname: "Villanueva"
+#   company: "Gradiant"
+#   title: "Senior Researcher - Data Scientist"
+#   bio: "Nora es Senior Researcher y Data Scientist at @Gradiant. Actualmente es estudiante Phd en Estadística y O.R. por la Universidad de Vigo."
+#   thumbnailUrl: NoraVillanueva.png
+#   rockstar: true
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/nora-m-villanueva-9073781b/"}
+#     - {name: "site", link: "http://noramvillanueva.github.io"}

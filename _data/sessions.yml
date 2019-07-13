@@ -1,131 +1,131 @@
--
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "El mejor lugar para conocer a los ponentes y asistentes"
+# -
+#    id: 307
+#   title: "Coffee Break"
+#   place: "Hall"
+#   service: true
+#   description: "El mejor lugar para conocer a los ponentes y asistentes"
 
--
-  id: 500
-  title: "Registro"
-  place: "Hall de entrada"
-  service: true
+# -
+#   id: 500
+#   title: "Registro"
+#   place: "Hall de entrada"
+#   service: true
 
--
-  id: 501
-  title: "Bienvenida"
-  place: "Salón de Actos"
-  service: true
+# -
+#   id: 501
+#   title: "Bienvenida"
+#   place: "Salón de Actos"
+#   service: true
 
--
-  id: 502
-  title: "Cierre de evento. <b>Sorteo de productos de Google (Google Home Mini y Chromecast).</b>"
-  place: "Salón de Actos"
-  service: true
+# -
+#   id: 502
+#   title: "Cierre de evento. <b>Sorteo de productos de Google (Google Home Mini y Chromecast).</b>"
+#   place: "Salón de Actos"
+#   service: true
 
--
-  id: 503
-  title: "Pausa para comida. <b>Comida gratis.</b> para todos los asistentes. <b>No te preocupes si tienes alguna intolerancia alimentaria o eres vegano o vegetariano. Hemos pensado en vosotros.</b>"
-  place: "Hall"
-  service: true
+# -
+#   id: 503
+#   title: "Pausa para comida. <b>Comida gratis.</b> para todos los asistentes. <b>No te preocupes si tienes alguna intolerancia alimentaria o eres vegano o vegetariano. Hemos pensado en vosotros.</b>"
+#   place: "Hall"
+#   service: true
 
--
-  id: 001
-  title: "Orquestando microservicios con Spring Cloud Netflix"
-  description: "Lo que se pretende en esta charla es ver como funciona y cuales son los beneficios de una arquitectura de microservicios frente a una arquitectura monolítica. También se mostrará de forma interactiva como crear un proyecto basándose en la herramienta Spring Cloud Netflix para orquestar la vida y administración de microservicios y las funcionalidades que estas herramientas de Netflix OSS aportan."
-  subtype: presentation
-  speakers: [3]
-  language: Español
-  complexity: "Intermedia"
--
-  id: 002
-  title: "La magia de Flutter"
-  description: "¿Debes considerar usar Flutter en tu proyecto? Pues lógicamente depende. Probablemente hayas oído hablar de Flutter, que es un SDK desarrollado por Google que nos promete la verdadera experiencia nativa y a la vez multiplataforma (iOS y Android). Es una forma rápida y divertida de crear aplicaciones utilizando el lenguaje Dart y veremos como es posible que valga para la mayoría de apps del mercado. Durante esta charla veremos si Flutter se adapta a tú proyecto y qué ventajas ofrece."
-  subtype: presentation
-  speakers: [4]
-  language: Español
-  complexity: "Intermedia" 
-  presentation: "https://medium.com/@efexepe/es-flutter-una-opci%C3%B3n-18e7e79393e3"
-  video: "//www.youtube.com/embed/fq4N0hgOWzU"
--
-  id: 003
-  title: "Taller de Gitlab CI: Creación, build y CI/CD con Gitlab CI"
-  description: "Gitlab es la alternativa preferida a Github, aunque es mucho más. Gracias a su sistema de registro de contenedores y a tener integrado su propio sistema de CI/CD, es el software perfecto para gestionar la vida de nuestro proyecto en todas sus etapas y fases. En este taller se utilizará la versión libre de Gitlab, Gitlab CE (que puede instalarse en un servidor local) y Docker para llevar a cabo las acciones necesarias para poner en marcha la integración y despliegue continuo de aplicaciones.
-  Se contará con dos pequeños proyectos, uno en PHP y otro en Angular que se incorporarán al Gitlab CE como proyectos diferentes y mediante la CI/CD se verá cómo se comporta la integración y despliegue contínuo de Gitlab.
+# -
+#   id: 001
+#   title: "Orquestando microservicios con Spring Cloud Netflix"
+#   description: "Lo que se pretende en esta charla es ver como funciona y cuales son los beneficios de una arquitectura de microservicios frente a una arquitectura monolítica. También se mostrará de forma interactiva como crear un proyecto basándose en la herramienta Spring Cloud Netflix para orquestar la vida y administración de microservicios y las funcionalidades que estas herramientas de Netflix OSS aportan."
+#   subtype: presentation
+#   speakers: [3]
+#   language: Español
+#   complexity: "Intermedia"
+# -
+#   id: 002
+#   title: "La magia de Flutter"
+#   description: "¿Debes considerar usar Flutter en tu proyecto? Pues lógicamente depende. Probablemente hayas oído hablar de Flutter, que es un SDK desarrollado por Google que nos promete la verdadera experiencia nativa y a la vez multiplataforma (iOS y Android). Es una forma rápida y divertida de crear aplicaciones utilizando el lenguaje Dart y veremos como es posible que valga para la mayoría de apps del mercado. Durante esta charla veremos si Flutter se adapta a tú proyecto y qué ventajas ofrece."
+#   subtype: presentation
+#   speakers: [4]
+#   language: Español
+#   complexity: "Intermedia" 
+#   presentation: "https://medium.com/@efexepe/es-flutter-una-opci%C3%B3n-18e7e79393e3"
+#   video: "//www.youtube.com/embed/fq4N0hgOWzU"
+# -
+#   id: 003
+#   title: "Taller de Gitlab CI: Creación, build y CI/CD con Gitlab CI"
+#   description: "Gitlab es la alternativa preferida a Github, aunque es mucho más. Gracias a su sistema de registro de contenedores y a tener integrado su propio sistema de CI/CD, es el software perfecto para gestionar la vida de nuestro proyecto en todas sus etapas y fases. En este taller se utilizará la versión libre de Gitlab, Gitlab CE (que puede instalarse en un servidor local) y Docker para llevar a cabo las acciones necesarias para poner en marcha la integración y despliegue continuo de aplicaciones.
+#   Se contará con dos pequeños proyectos, uno en PHP y otro en Angular que se incorporarán al Gitlab CE como proyectos diferentes y mediante la CI/CD se verá cómo se comporta la integración y despliegue contínuo de Gitlab.
 
-  <br>Entre otras cosas se verá:<br>
+#   <br>Entre otras cosas se verá:<br>
 
-  <lu>
-    <li>Creación de proyectos</li>
-    <li>Definición de los stages de despliegue.</li>
-    <li>Configuración de los runners encargados de ejecutar las tareas de CI/CD.</li>
-    <li>Requerimiento de test unitarios y cálculo de la cobertura de código en el stage CI.</li>
-    <li>Configuración de las acciones de CI/CD en el proyecto.</li>
-    <li>Stage build: construyendo nuestra aplicación.</li>
-    <li>Facilitar desde el repositorio contenedores Docker para el trabajo en local.</li>
-    <li>La problemática de los permisos en los despliegues de entorno web. </li>
-  </ul>
-  <br>
-  <b>Para poder aprovechar al máximo el taller es necesario venir con un portátil con Docker CE instalado (https://docs.docker.com/install/) y git, tener una cuenta en GitHub (https://github.com/) y en Docker Hub (https://hub.docker.com/)</b>"
+#   <lu>
+#     <li>Creación de proyectos</li>
+#     <li>Definición de los stages de despliegue.</li>
+#     <li>Configuración de los runners encargados de ejecutar las tareas de CI/CD.</li>
+#     <li>Requerimiento de test unitarios y cálculo de la cobertura de código en el stage CI.</li>
+#     <li>Configuración de las acciones de CI/CD en el proyecto.</li>
+#     <li>Stage build: construyendo nuestra aplicación.</li>
+#     <li>Facilitar desde el repositorio contenedores Docker para el trabajo en local.</li>
+#     <li>La problemática de los permisos en los despliegues de entorno web. </li>
+#   </ul>
+#   <br>
+#   <b>Para poder aprovechar al máximo el taller es necesario venir con un portátil con Docker CE instalado (https://docs.docker.com/install/) y git, tener una cuenta en GitHub (https://github.com/) y en Docker Hub (https://hub.docker.com/)</b>"
 
 
-  subtype: workshop
-  speakers: [5]
-  language: Español
-  complexity: "Intermedia" 
--
-  id: 004
-  title: "Introducción a Actions on Google"
-  description: "Creación de actions para el asistente de Google con Dialogflow."
-  subtype: presentation
-  speakers: [7]
-  language: Español
-  complexity: "Básico"
-  video: "//www.youtube.com/embed/ZvyrvowZ4wQ"
-
--
-  id: 005
-  title: "Improving scheduling decisions in Kubernetes"
-  description: "Discover the native APIs that Kubernetes offers you to take ownership of the scheduling process for improving the performance, redundancy and resilience of your applications."
-  subtype: presentation
-  speakers: [10]
-  language: Español
-  complexity: "Intermedia"
-
--
-  id: 006
-  title: "Legal approach for smart technology"
-  description: "Bárbara nos ofrecerá un repaso a la tecnología de actualidad desde una perspectiva legal. Hablaremos de licencias de software, Big Data, blockchain, análisis de textos jurídicos y por supuesto, de Google"
-  subtype: presentation
-  speakers: [8]
-  language: Español
-  complexity: "Intermedia"
-
--
-  id: 007
-  title: "5 tips y 9 razones para programar en Ruby on Rails"
-  description: "Siempre que empezamos a programar con un nuevo lenguaje o framework queremos encontrar buenas razones para motivarnos, así que vamos preguntando a los más experimentados sus recomendaciones. Encontremos motivos y divertidas razones para programar en este framework."
-  subtype: presentation
-  speakers: [11]
-  language: Español
-  complexity: "Básico"
-
--
-  id: 008
-  title: "Machine Learning in practice"
-  description: "El taller cubrirá los fundamentos de los principios y prácticas del machine learning, tanto el aprendizaje supervisado como el no supervisado."
-  subtype: workshop
-  speakers: [12,13]
-  language: Español
-  complexity: "Intermedio"
+#   subtype: workshop
+#   speakers: [5]
+#   language: Español
+#   complexity: "Intermedia" 
+# -
+#   id: 004
+#   title: "Introducción a Actions on Google"
+#   description: "Creación de actions para el asistente de Google con Dialogflow."
+#   subtype: presentation
+#   speakers: [7]
+#   language: Español
+#   complexity: "Básico"
+#   video: "//www.youtube.com/embed/ZvyrvowZ4wQ"
 
 # -
 #   id: 005
-#   title: "Test: Interacting with Google Services using nothing but HTML"
-#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#   subtype: keynote
-#   speakers: [7]
-#   language: en
-#   complexity: "Expert"
-#   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+#   title: "Improving scheduling decisions in Kubernetes"
+#   description: "Discover the native APIs that Kubernetes offers you to take ownership of the scheduling process for improving the performance, redundancy and resilience of your applications."
+#   subtype: presentation
+#   speakers: [10]
+#   language: Español
+#   complexity: "Intermedia"
+
+# -
+#   id: 006
+#   title: "Legal approach for smart technology"
+#   description: "Bárbara nos ofrecerá un repaso a la tecnología de actualidad desde una perspectiva legal. Hablaremos de licencias de software, Big Data, blockchain, análisis de textos jurídicos y por supuesto, de Google"
+#   subtype: presentation
+#   speakers: [8]
+#   language: Español
+#   complexity: "Intermedia"
+
+# -
+#   id: 007
+#   title: "5 tips y 9 razones para programar en Ruby on Rails"
+#   description: "Siempre que empezamos a programar con un nuevo lenguaje o framework queremos encontrar buenas razones para motivarnos, así que vamos preguntando a los más experimentados sus recomendaciones. Encontremos motivos y divertidas razones para programar en este framework."
+#   subtype: presentation
+#   speakers: [11]
+#   language: Español
+#   complexity: "Básico"
+
+# -
+#   id: 008
+#   title: "Machine Learning in practice"
+#   description: "El taller cubrirá los fundamentos de los principios y prácticas del machine learning, tanto el aprendizaje supervisado como el no supervisado."
+#   subtype: workshop
+#   speakers: [12,13]
+#   language: Español
+#   complexity: "Intermedio"
+
+# # -
+# #   id: 005
+# #   title: "Test: Interacting with Google Services using nothing but HTML"
+# #   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+# #   subtype: keynote
+# #   speakers: [7]
+# #   language: en
+# #   complexity: "Expert"
+# #   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
