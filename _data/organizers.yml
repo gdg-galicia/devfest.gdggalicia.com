@@ -1,8 +1,11 @@
 - 
   group: ""
   elements: 
-    - {name: "GDG Ourense", description: "GDG Ourense - Comunidad Google de Ourense", link: "https://www.meetup.com/es/GDGOurense/", imageUrl: "gdg-ourense.svg"}  
-    - {name: "GDG Santiago", description: "GDG Santiago - Comunidad Google de Santiago de Compostela", link: "https://www.meetup.com/es-ES/gdgsantiagoes/", imageUrl: "gdg-santiago.svg"}  
-    - {name: "GDG Pontevedra", description: "GDG Pontevedra - Comunidad Google de Pontevedra", link: "https://www.meetup.com/es/GDG-Pontevedra/", imageUrl: "gdg-pontevedra.svg"}
-    - {name: "GDG Vigo", description: "GDG Vigo - Comunidad Google de Vigo", link: "https://www.meetup.com/es/GDGVigo/", imageUrl: "gdg-vigo.svg"}
+    - {name: "GDG Ourense", description: "GDG Ourense - Comunidad Google de Ourense", link: "https://www.meetup.com/es/GDGOurense/", imageUrl: "gdg-ourense.png"}  
+    - {name: "GDG Santiago", description: "GDG Santiago - Comunidad Google de Santiago de Compostela", link: "https://www.meetup.com/es-ES/gdgsantiagoes/", imageUrl: "gdg-santiago.png"}  
+    - {name: "GDG Pontevedra", description: "GDG Pontevedra - Comunidad Google de Pontevedra", link: "https://www.meetup.com/es/GDG-Pontevedra/", imageUrl: "gdg-pontevedra.png"}
+    - {name: "GDG Vigo", description: "GDG Vigo - Comunidad Google de Vigo", link: "https://www.meetup.com/es/GDGVigo/", imageUrl: "gdg-vigo.png"}
+    - {name: "GDG Coruña", description: "GDG Coruña - Comunidad Google de Coruña", link: "https://www.meetup.com/GDG-Coruna/", imageUrl: "gdg-coruña.png"}
+    - {name: "GDG Lugo", description: "GDG Lugo - Comunidad Google de Lugo", link: "https://www.meetup.com/GDG-Lugo/", imageUrl: "gdg-lugo.png"}
+
 - 
