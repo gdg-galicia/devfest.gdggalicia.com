@@ -57,7 +57,7 @@ navigationLinks:
  - {permalink: "/code-of-conduct/", text: "Código de conducta"}
  #- {permalink: "/firebase-appfest/", text: "Firebase Appfest"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/1aKO4v46Sg_ttjyqm1-2D4TzLRpU2XSc6yRUlKT7bPG4", text: "Quiero dar una charla"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfxLCyXuO9zuC3y8bKuX3qLxlnBNvQ-wzMHti_QF0ltPgKasg/closedform", text: "Quiero dar una charla"}
 rightNavigationButtons:
 # - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Entrada gratuita"}
 
@@ -69,8 +69,8 @@ eventData: "ESEI - Escola Superior de Enxeñería Informática, Ourense, 17 de n
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
- - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Quiero patrocinar"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfxLCyXuO9zuC3y8bKuX3qLxlnBNvQ-wzMHti_QF0ltPgKasg/closedform", text: "Quiero dar una charla"}
+ - {link: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform?edit_requested=true", text: "Quiero patrocinar"}
 # - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Quiero asistir - Entrada gratuita"}
 
 # About Block
