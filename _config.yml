@@ -50,7 +50,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
+ #- {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Ubicación"}
@@ -62,7 +62,7 @@ rightNavigationButtons:
 # - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Entrada gratuita"}
 
 # Hero Block
-heroImage: "fireworks.jpg"
+heroImage: "ourense.jpg"
 heroTitle: "GDG DevFest  <typeout> 2019"
 eventDate: "26 Octubre, Ourense"
 eventData: "ESEI - Escola Superior de Enxeñería Informática, Ourense, 17 de noviembre de 2018"
