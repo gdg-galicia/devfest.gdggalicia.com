@@ -1,7 +1,7 @@
 - 
   group: "Con el apoyo de"
   elements: 
-    - {name: "Uvigo", description: "Universidade de Vigo", link: "http://www.vigo.gal", imageUrl: "uvigo.svg"}
+    - {name: "Esei", description: "Escola Superior de Enxeñería Informática", link: "http://http://www.esei.uvigo.es", imageUrl: "esei.jpeg"}
 - 
   group: "Patrocinadores Platino"
   elements: 

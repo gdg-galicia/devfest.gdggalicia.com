@@ -2,7 +2,9 @@
 <section id="tickets" class="tickets">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<h3>{{ site.ticketsTitle }}</h3>
+			<h3 style="margin-bottom: 20px;">{{ site.ticketsTitle }}</h3>
+			<p><a href="https://drive.google.com/open?id=1MynkLEUaNLECMrKzsN1nzM0W_OpLgeLO" target="_blank"><b>Información detallada para patrocinadores.</b></a></p>
+			<div style="margin-top: 50px;">
             {% for ticketsOffer in site.ticketsOffers %}
 	            {% assign colWidth = 12 | divided_by: forloop.length %}
 	            {% assign check = forloop.index | modulo:2 %}
@@ -28,7 +30,8 @@
 						{% endif %}
 					</div>
 				</div>
-            {% endfor %}
+			{% endfor %}
+			</div>
 		</div>
 	</div>
 </section>
