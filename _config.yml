@@ -42,8 +42,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/1aKO4v46Sg_ttjyqm1-2D4TzLRpU2XSc6yRUlKT7bPG4"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfxLCyXuO9zuC3y8bKuX3qLxlnBNvQ-wzMHti_QF0ltPgKasg/viewform"
+c4sponsorsUrl: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform"
 
 
 # Navigation
@@ -147,7 +147,7 @@ ticketsOffers:
   price: "300"
   priceCurrency: "€"
   ticketsNumber: "150"
-  buyButtonLink: "hhttps://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform"
+  buyButtonLink: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform"
   buyButtonText: "Quiero patrocinar"
   ticketContentList: ["Logo en la web (pequeño)", "Logo en cartelería (pequeño)", "gradecimiento en redes sociales", "Agradecimiento en intro y despedida del evento (diapositiva conjunta)", "Reserva de 2 entradas para su empresa."]
   validFrom: "2018-10-25T10:00"
