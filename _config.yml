@@ -160,7 +160,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
   buyButtonText: "Quiero patrocinar"
-  ticketContentList: ["Logo en la web (mediano)", "Logo en cartelería (mediano)", "Logo en camiseta (mediano)", "Agradecimiento en redes sociales", "Agradecimiento en intro y despedida del evento (diapositiva propia)","Reserva de 6 entradas para su empresa", "3 min de anuncio patrocinado entre charlas (incluye tu video, tu propio presentador)", "Logo en grabaciones (propio, estático)", "Sitio para poner stand de captación", "Roll-up en entrada/coffee break/lunch", "Roll-up en escenario", "2 invitaciones a la cena de speakers/organizadores"]
+  ticketContentList: ["Mismas ventajas que el patrocinador Oro y ....","Reserva de 6 entradas para su empresa", "Speech de 3 min entre charlas (incluye tu video, tu propio presentador)", "Logo en grabaciones (propio, estático)", "Stand de tu empresa en el evento", "Roll-up en escenario", "2 invitaciones a la cena de speakers/organizadores"]
   validFrom: "2018-10-25T10:00"
   validThrough: "2018-11-16T23:59"
  -
@@ -170,7 +170,7 @@ ticketsOffers:
   ticketsNumber: "500"
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
   buyButtonText: "Quiero patrocinar"
-  ticketContentList: ["Logo en la web (mediano)", "Logo en cartelería (mediano)", "Logo en camiseta (mediano)", "Agradecimiento en redes sociales", "Agradecimiento en intro y despedida del evento (diapositiva propia)", "Reserva de 4 entradas para su empresa.", "Logo en grabaciones publicadas (estático)", "Roll-up en entrada/descansos/comida", "1 invitación a la cena de speakers/organizadores"]
+  ticketContentList: ["Mismas ventajas que el patrocinador Plata y ....", "Logo en la web y cartelería (mediano)", "Logo en camiseta (mediano)", "Reserva de 4 entradas para su empresa.", "Logo en grabaciones publicadas (estático)", "Roll-up en entrada/descansos/comida", "1 invitación a la cena de speakers/organizadores"]
   validFrom: "2018-10-25T10:00"
   validThrough: "2018-11-16T23:59"
 
