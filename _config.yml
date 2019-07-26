@@ -69,8 +69,8 @@ eventData: "ESEI - Escola Superior de Enxeñería Informática, Ourense, 17 de n
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfxLCyXuO9zuC3y8bKuX3qLxlnBNvQ-wzMHti_QF0ltPgKasg/closedform", text: "Quiero dar una charla"}
- - {link: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform?edit_requested=true", text: "Quiero patrocinar"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfxLCyXuO9zuC3y8bKuX3qLxlnBNvQ-wzMHti_QF0ltPgKasg/viewform", text: "Quiero dar una charla"}
+ - {link: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform", text: "Quiero patrocinar"}
 # - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Quiero asistir - Entrada gratuita"}
 
 # About Block
@@ -147,7 +147,7 @@ ticketsOffers:
   price: "300"
   priceCurrency: "€"
   ticketsNumber: "150"
-  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
+  buyButtonLink: "hhttps://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform"
   buyButtonText: "Quiero patrocinar"
   ticketContentList: ["Logo en la web (pequeño)", "Logo en cartelería (pequeño)", "gradecimiento en redes sociales", "Agradecimiento en intro y despedida del evento (diapositiva conjunta)", "Reserva de 2 entradas para su empresa."]
   validFrom: "2018-10-25T10:00"
@@ -158,7 +158,7 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "800"
   featured: true
-  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
+  buyButtonLink: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform"
   buyButtonText: "Quiero patrocinar"
   ticketContentList: ["Mismas ventajas que el patrocinador Oro y ....","Reserva de 6 entradas para su empresa", "Speech de 3 min entre charlas (incluye tu video, tu propio presentador)", "Logo en grabaciones (propio, estático)", "Stand de tu empresa en el evento", "Roll-up en escenario", "2 invitaciones a la cena de speakers/organizadores"]
   validFrom: "2018-10-25T10:00"
@@ -168,7 +168,7 @@ ticketsOffers:
   price: "500"
   priceCurrency: "€"
   ticketsNumber: "500"
-  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
+  buyButtonLink: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform"
   buyButtonText: "Quiero patrocinar"
   ticketContentList: ["Mismas ventajas que el patrocinador Plata y ....", "Logo en la web y cartelería (mediano)", "Logo en camiseta (mediano)", "Reserva de 4 entradas para su empresa.", "Logo en grabaciones publicadas (estático)", "Roll-up en entrada/descansos/comida", "1 invitación a la cena de speakers/organizadores"]
   validFrom: "2018-10-25T10:00"
