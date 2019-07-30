@@ -67,7 +67,7 @@ heroTitle: "GDG DevFest  <typeout> 2019"
 eventDate: "26 Octubre, Ourense"
 eventData: "ESEI - Escola Superior de Enxeñería Informática, Ourense, 17 de noviembre de 2018"
 typeoutTextValues: '"", "Galicia"'
-typeoutFallback: "Season"
+typeoutFallback: "Galicia"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfxLCyXuO9zuC3y8bKuX3qLxlnBNvQ-wzMHti_QF0ltPgKasg/viewform", text: "Quiero dar una charla"}
  - {link: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform", text: "Quiero patrocinar"}
