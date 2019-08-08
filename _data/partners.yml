@@ -7,9 +7,12 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "Raiola Networks", description: "Raiola", link: "https://raiolanetworks.es/", imageUrl: "raiola.png"}
+    - {name: "Plexus Tech", description: "Plexus Tech", link: "https://www.tecnologiasplexus.com/", imageUrl: "plexus.png"}
 - 
   group: "Patrocinadores Oro"
   elements: 
+    - {name: "Teimas", description: "Teimas Desenvolvemento", link: "https://teimas.com/", imageUrl: "teimas.png"}
+
     #- {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant/org", imageUrl: "gradiant.png"}
     #- {name: "R", description: "R", link: "https://www.mundo-r.com/es", imageUrl: "logoR.png"}
 - 
