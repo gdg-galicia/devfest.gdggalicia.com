@@ -2,12 +2,13 @@
   group: "Con el apoyo de"
   elements: 
     - {name: "Esei", description: "Escola Superior de Enxeñería Informática", link: "http://http://www.esei.uvigo.es", imageUrl: "esei.jpeg"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
 - 
   group: "Patrocinadores Platino"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "Raiola Networks", description: "Raiola", link: "https://raiolanetworks.es/", imageUrl: "raiola.png"}
     - {name: "Plexus Tech", description: "Plexus Tech", link: "https://www.tecnologiasplexus.com/", imageUrl: "plexus.png"}
+    - {name: "Redegal", description: "Redegal", link: "https://www.redegal.com/es/", imageUrl: "redegal.png"}
 - 
   group: "Patrocinadores Oro"
   elements: 
