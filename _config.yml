@@ -126,7 +126,7 @@ venueFeatures: ["Ourense", "Salón de actos", "Aulas para talleres"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Estamos en twitter!"
-twitterHashTag: "GaliciaDevFest"
+twitterHashTag: "DevFestGal"
 twitterFeed: ""
 
 # Partners Block
