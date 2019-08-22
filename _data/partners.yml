@@ -14,12 +14,12 @@
   elements: 
     - {name: "Teimas", description: "Teimas Desenvolvemento", link: "https://teimas.com/", imageUrl: "teimas.png"}
     - {name: "Openhost", description: "Openhost", link: "https://www.opennemas.com/es", imageUrl: "openhost.png"}
-    - {name: "Idealista", description: "Idealista", link: "https://www.idealista.com", imageUrl: "idealista.jpg"}
     #- {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant/org", imageUrl: "gradiant.png"}
     #- {name: "R", description: "R", link: "https://www.mundo-r.com/es", imageUrl: "logoR.png"}
 - 
   group: "Patrocinadores Plata"
   elements: 
+    - {name: "Idealista", description: "Idealista", link: "https://www.idealista.com", imageUrl: "idealista.jpg"}
     #- {name: "Cocodin", description: "Cocodin Tech", link: "http://www.cocodin.com/", imageUrl: "cocodin.png"}
     #- {name: "Optare", description: "Optare Solutions", link: "https://optaresolutions.com/", imageUrl: "optare.png"}
 
