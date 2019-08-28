@@ -14,7 +14,7 @@
   elements: 
     - {name: "Teimas", description: "Teimas Desenvolvemento", link: "https://teimas.com/", imageUrl: "teimas.png"}
     - {name: "Openhost", description: "Openhost", link: "https://www.opennemas.com/es", imageUrl: "openhost.png"}
-    - {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant/org", imageUrl: "gradiant.png"}
+    - {name: "Gradiant", description: "Gradiant", link: "https://www.gradiant.org", imageUrl: "gradiant.png"}
     #- {name: "R", description: "R", link: "https://www.mundo-r.com/es", imageUrl: "logoR.png"}
 - 
   group: "Patrocinadores Plata"
