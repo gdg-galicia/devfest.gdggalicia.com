@@ -5,38 +5,148 @@
 #   service: true
 #   description: "El mejor lugar para conocer a los ponentes y asistentes"
 
-# -
-#   id: 500
-#   title: "Registro"
-#   place: "Hall de entrada"
-#   service: true
+-
+  id: 500
+  title: "Registro"
+  place: "Hall de entrada"
+  service: true
 
-# -
-#   id: 501
-#   title: "Bienvenida"
-#   place: "Salón de Actos"
-#   service: true
+-
+  id: 501
+  title: "Bienvenida"
+  place: "Salón de Actos"
+  service: true
 
-# -
-#   id: 502
-#   title: "Cierre de evento. <b>Sorteo de productos de Google (Google Home Mini y Chromecast).</b>"
-#   place: "Salón de Actos"
-#   service: true
+-
+  id: 502
+  title: "Cierre de evento."
+  place: "Salón de Actos"
+  service: true
 
-# -
-#   id: 503
-#   title: "Pausa para comida. <b>Comida gratis.</b> para todos los asistentes. <b>No te preocupes si tienes alguna intolerancia alimentaria o eres vegano o vegetariano. Hemos pensado en vosotros.</b>"
-#   place: "Hall"
-#   service: true
+-
+  id: 503
+  title: "Pausa para comida. <b>Comida gratis.</b> para todos los asistentes. <b>No te preocupes si tienes alguna intolerancia alimentaria o eres vegano o vegetariano. Hemos pensado en vosotros.</b>"
+  place: "Hall"
+  service: true
 
-# -
-#   id: 001
-#   title: "Orquestando microservicios con Spring Cloud Netflix"
-#   description: "Lo que se pretende en esta charla es ver como funciona y cuales son los beneficios de una arquitectura de microservicios frente a una arquitectura monolítica. También se mostrará de forma interactiva como crear un proyecto basándose en la herramienta Spring Cloud Netflix para orquestar la vida y administración de microservicios y las funcionalidades que estas herramientas de Netflix OSS aportan."
-#   subtype: presentation
-#   speakers: [3]
-#   language: Español
-#   complexity: "Intermedia"
+-
+  id: 001
+  title: "Construyendo modelos para dispositivos edge TPU"
+  description: "En los últimos años, el uso de modelos basados ​​en el Aprendizaje Automático (AA) se ha vuelto muy popular. El AA nos permite construir modelos para la detección/clasificación o regresión de manera sencilla, pero en muchos casos el coste computacional de utilizarlos puede ser muy elevado sobre todo en pequeños dispositivos con baja capacidad de computo, los cuales han comenzado a poblar nuestras casas, oficinas y ciudades. ¿Cómo podemos utilizar nuestros modelos en dispositivos con diferentes capacidades, como por ejemplo las nuevas Edge TPUs?<br/>
+Acompáñame en esta charla para adentrarnos en lo profundo de TensorFlow para construir modelos utilizando Cloud ML Engine y ejecutarlos en diferentes tipos de dispositivos. Aprendamos como funcionan los dispositivos Edge TPU y como podemos construir modelos para ejecutarlos en ellos."
+  subtype: presentation
+  speakers: [12]
+  language: Español
+  complexity: "Intermedia"
+
+-
+  id: 002
+  title: "Creciendo con la ciencia"
+  description: "Mi interés por la ciencia y la tecnología empezó a aumentar hace 5 años, cuando acudí por primera vez a las Aulas Tecnópole en el Parque Tecnológico de Galicia. Desde entonces he desarrollado cuatro proyectos de investigación con los cuales he podido participar en 15 ferias ciéntificas en las que he recibido diversos premios y distinciones. Siempre he buscado temáticas que aporten mejoras a nivel social. Mi primer proyecto estaba dedicado al diseño de un sistema para la alerta temprada de inundación. El siguiente consistió en el la creación de un sistema para la realización de pruebas de electroforesis low cost. Y los dos últimos se orientaron al ámbito de la salud, que es en el que curso mis estudios superiores. Consisitieron en un sistema de análisis de la pisada y en un conjunto de dispositivos para la prevención de la muerte súbita infantil."
+  subtype: presentation
+  speakers: [9]
+  language: Español
+  complexity: "Básico"
+
+-
+  id: 003
+  title: "PWA -  The hidden stories about the future of the web"
+  description: "Todo lo que debes conocer en el mundo de las PWA. Estadísticas, historias, trucos y todos las curiosidades para hacer que tus aplicaciones sean mejores y más rápidas."
+  subtype: presentation
+  speakers: [11]
+  language: Español
+  complexity: "Intermedia"
+
+-
+  id: 004
+  title: "Cultura de trabajo en remoto"
+  description: "
+  <ol>
+    <li>Algunos datos sobre trabajo en remoto.</li>
+    <li>Empresas con cultura de trabajo remoto. ¿Es posible trabajar 100% en remoto?</li>
+    <li>¿Cómo implantar el trabajo en remoto en tu empresa?</li>
+    <li>¿Qué herramientas utilizar?</li>
+    <li>¿Cuáles son los beneficios y desventajas del trabajo en remoto?</li>
+    <li>Algunos consejos para trabajar en remoto.</li>
+  </ol>"
+  subtype: presentation
+  speakers: [16]
+  language: Español
+  complexity: "Básico"
+
+-
+  id: 005
+  title: "The power of RxJS: Building Flappy Bird in Angular"
+  description: "Para introducir la programación reactiva con RxJS, construiremos el famoso minijuego Flappy Bird. Cubriremos todo, desde los conceptos básicos de programación reactiva (observables, observadores, suscripciones, etc.) hasta un uso avanzado de operadores RxJS, así como las últimas versiones de potentes tecnologías web como Angular y Pixi.js."
+  subtype: presentation
+  speakers: [13,14]
+  language: Español
+  complexity: "Intermedia"
+
+-
+  id: 006
+  title: "Cómo ser un Big Data Architect en Google Cloud sin serlo!"
+  description: "Estefanía nos explicará la realidad de montar una plataforma Big Data actual utilizando los servicios que ofrece Google Cloud Platform. Una plataforma cuya arquitectura sea completa, de alto rendimiento, escalable y sin morir en el intento."
+  subtype: presentation
+  speakers: [3]
+  language: Español
+  complexity: "Intermedia"
+
+-
+  id: 007
+  title: "React sin morir en el intento"
+  description: "ReactJS es una librería JavaScript creada por Facebook para mejorar el renderizado de las vistas de una aplicación. Lo más habitual es utilizarla en el frontend, sin embargo, también puede ser utilizada en backend y para la creación de aplicaciones nativas.<br/>
+Después de varios años, ReactJS ha revolucionado el desarrollo web y se ha encumbrado como una de las tecnologías frontend más populares. Actualmente entre las empresas que utilizan ReactJS destacan Instagram, New York Times, Yahoo, Khan Academy, Whatsapp, Dropbox, Airbnb, Microsoft, y por supuesto, la propia Facebook.<br/>
+El objetivo de este taller práctico será acercar está tecnología a los desarrolladores y desmitificar su elevada curva de entrada. Durante el taller se utilizará el generador oficial de React y se explicarán los conceptos básicos, de forma que los asistentes podrán realizar una aplicación para comprobar lo que está librería es capaz de ofrecerles."
+  subtype: workshop
+  speakers: [8]
+  language: Español
+  complexity: "Intermedio"
+
+-
+  id: 008
+  title: "Recruiting en una Startup"
+  description: "Desde los 4 socios que empezaron Teimas en 2008, la compañía ha incorporado sobre unas 30 personas hasta la fecha.<br/>
+Hemos atravesado diferentes etapas en el recruiting. Inicialmente, sólo incorporábamos técnicos, el resto de tareas no técnicas, que eran pocas, las realizábamos los socios.<br/>
+Con cierto tamaño, empezamos a incorporar otro tipo de perfiles: Comercial, administración, asistencia comercial, perfiles técnicos medioambientales, primer nivel de soporte, etc. Y, en paralelo, seguía la incorporación de técnicos, siempre juniors.<br/>
+Tradicionalmente, separamos incorporaciones técnicas de otras incorporaciones.<br/>
+Como empresa pequeña de producto, un perfil técnico al que le guste su trabajo tiene la oportunidad de ir evolucionando su posición técnica y económica sin cambiar de actividad (más típico de las consultoras). Lo malo es que no puede evolucionar hacia otras actividades de más de gestión (más típico de las consultoras). No es para todo el mundo pero sí aquellos que les apasiona programar. Pero es en las consultoras de gran tamaño donde se acaban acomodando la mayor parte de técnicos de nuestra profesión.<br/>
+Hoy por hoy, me gustaría contar la experiencia de incorporar siempre perfiles junior y los beneficios que esa política supone para la cultura de la empresa. En este momento, empezamos a contratar técnicos con experiencia. Una apuesta nueva, un nuevo desafío para la compañía.<br/>
+Esta es nuestra visión de la incorporación de personal para una empresa pequeña, tecnológica y de producto."
+  subtype: workshop
+  speakers: [6,7]
+  language: Español
+  complexity: "Introductorio"
+
+-
+  id: 009
+  title: "Principios SOLID en la vida real"
+  description: "Un código STUPID nos genera miles de quebraderos de cabeza: Falta de tolerancia al cambio, acoplamiento a niveles del todo inesperado, complejidad ciclomática, deuda técnica como si no hubiese un mañana... en definitiva, convierte nuestro código en algo imposible de manejar, gestionar y mantener. Para solucionarlo sólo tienes que empezar aplicar los principios SOLID a tu código, en este taller no sólo verás cómo, sino que lo llevarás a cabo.<br/>
+Taller realizado de forma conjunta por Rolando Caldas (Analista Programador en Altia) y Daniel Vaqueiro (CTO de Boardfy). A partir de un código que viola todos los principios SOLID y buenas prácticas, se irán realizando iteracciones de refactorización para ir, poco a poco, aplicando los diferentes principios SOLID, aprovechado estos momentos para explicarlos y ponerlos en su contexto."
+  subtype: workshop
+  speakers: [4,5]
+  language: Español
+  complexity: "Intermedio"
+
+-
+  id: 010
+  title: "HTML y CSS"
+  description: "Introducción al mundo de HTML y CSS."
+  subtype: workshop
+  speakers: [10]
+  language: Español
+  complexity: "Introductorio"
+
+-
+  id: 011
+  title: "Discovering the Cloud"
+  description: "Taller introductorio a Google Cloud, en el que aprenderemos cómo es la plataforma y veremos superficialmente cómo trabajar con Machine Learning e Inteligencia Artificial y en la plataforma."
+  subtype: workshop
+  speakers: [15]
+  language: Español
+  complexity: "Introductorio"
+
+
 # -
 #   id: 002
 #   title: "La magia de Flutter"
@@ -47,85 +157,3 @@
 #   complexity: "Intermedia" 
 #   presentation: "https://medium.com/@efexepe/es-flutter-una-opci%C3%B3n-18e7e79393e3"
 #   video: "//www.youtube.com/embed/fq4N0hgOWzU"
-# -
-#   id: 003
-#   title: "Taller de Gitlab CI: Creación, build y CI/CD con Gitlab CI"
-#   description: "Gitlab es la alternativa preferida a Github, aunque es mucho más. Gracias a su sistema de registro de contenedores y a tener integrado su propio sistema de CI/CD, es el software perfecto para gestionar la vida de nuestro proyecto en todas sus etapas y fases. En este taller se utilizará la versión libre de Gitlab, Gitlab CE (que puede instalarse en un servidor local) y Docker para llevar a cabo las acciones necesarias para poner en marcha la integración y despliegue continuo de aplicaciones.
-#   Se contará con dos pequeños proyectos, uno en PHP y otro en Angular que se incorporarán al Gitlab CE como proyectos diferentes y mediante la CI/CD se verá cómo se comporta la integración y despliegue contínuo de Gitlab.
-
-#   <br>Entre otras cosas se verá:<br>
-
-#   <lu>
-#     <li>Creación de proyectos</li>
-#     <li>Definición de los stages de despliegue.</li>
-#     <li>Configuración de los runners encargados de ejecutar las tareas de CI/CD.</li>
-#     <li>Requerimiento de test unitarios y cálculo de la cobertura de código en el stage CI.</li>
-#     <li>Configuración de las acciones de CI/CD en el proyecto.</li>
-#     <li>Stage build: construyendo nuestra aplicación.</li>
-#     <li>Facilitar desde el repositorio contenedores Docker para el trabajo en local.</li>
-#     <li>La problemática de los permisos en los despliegues de entorno web. </li>
-#   </ul>
-#   <br>
-#   <b>Para poder aprovechar al máximo el taller es necesario venir con un portátil con Docker CE instalado (https://docs.docker.com/install/) y git, tener una cuenta en GitHub (https://github.com/) y en Docker Hub (https://hub.docker.com/)</b>"
-
-
-#   subtype: workshop
-#   speakers: [5]
-#   language: Español
-#   complexity: "Intermedia" 
-# -
-#   id: 004
-#   title: "Introducción a Actions on Google"
-#   description: "Creación de actions para el asistente de Google con Dialogflow."
-#   subtype: presentation
-#   speakers: [7]
-#   language: Español
-#   complexity: "Básico"
-#   video: "//www.youtube.com/embed/ZvyrvowZ4wQ"
-
-# -
-#   id: 005
-#   title: "Improving scheduling decisions in Kubernetes"
-#   description: "Discover the native APIs that Kubernetes offers you to take ownership of the scheduling process for improving the performance, redundancy and resilience of your applications."
-#   subtype: presentation
-#   speakers: [10]
-#   language: Español
-#   complexity: "Intermedia"
-
-# -
-#   id: 006
-#   title: "Legal approach for smart technology"
-#   description: "Bárbara nos ofrecerá un repaso a la tecnología de actualidad desde una perspectiva legal. Hablaremos de licencias de software, Big Data, blockchain, análisis de textos jurídicos y por supuesto, de Google"
-#   subtype: presentation
-#   speakers: [8]
-#   language: Español
-#   complexity: "Intermedia"
-
-# -
-#   id: 007
-#   title: "5 tips y 9 razones para programar en Ruby on Rails"
-#   description: "Siempre que empezamos a programar con un nuevo lenguaje o framework queremos encontrar buenas razones para motivarnos, así que vamos preguntando a los más experimentados sus recomendaciones. Encontremos motivos y divertidas razones para programar en este framework."
-#   subtype: presentation
-#   speakers: [11]
-#   language: Español
-#   complexity: "Básico"
-
-# -
-#   id: 008
-#   title: "Machine Learning in practice"
-#   description: "El taller cubrirá los fundamentos de los principios y prácticas del machine learning, tanto el aprendizaje supervisado como el no supervisado."
-#   subtype: workshop
-#   speakers: [12,13]
-#   language: Español
-#   complexity: "Intermedio"
-
-# # -
-# #   id: 005
-# #   title: "Test: Interacting with Google Services using nothing but HTML"
-# #   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-# #   subtype: keynote
-# #   speakers: [7]
-# #   language: en
-# #   complexity: "Expert"
-# #   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"

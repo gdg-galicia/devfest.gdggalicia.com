@@ -1,14 +1,183 @@
-# - 
-#   id: 3
-#   name: "Jose Juan"
-#   surname: "Dios Otero"
-#   company: "Plexus Tech"
-#   title: "Full Stack Developer & Scrum Master Certified"
-#   bio: "Jose Juan es un tech lead fullstack con amplio conocimiento de tecnologías Java, implementación y orquestación de microservicios y definición de arquitecturas escalables y tolerantes a fallos . Actualmente dirige el desarrollo a nivel técnico en proyectos tanto de frontend como de backend en Plexus Tech. Ha trabajado para grandes empresas españolas como Banco Santander, La Caixa, Barcelo Viajes y Air Europa entre otros. Habitualmente imparte formación interna dentro de Plexus Tech tanto de front: AngularJS y VueJS, como de backend con Spring(MVC y Rest) o Struts."
-#   thumbnailUrl: JoseJuanDiosOtero.png
-#   rockstar: true
-#   social: 
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/josejuandiosotero/"}
+- 
+  id: 3
+  name: "Estefanía"
+  surname: "Otero García"
+  company: "FINSA"
+  title: "Data Scientist"
+  bio: "Soy Doctora en Ciencias de la Computación e Inteligencia Artificial por la Universidad de Santiago desde 2017. Tengo un Máster en Investigación y Tecnologías de la Información (2011) y me gradué como Ingeniera Informática (2010) en la misma Universidad. En su momento, fui investigadora en el CITIUS, pero a día de hoy trabajo como Data Scientist en el departamento de TI en FINSA."
+  thumbnailUrl: Estefania-servelessGCP.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/estefaniaoterogarcia/"}
+
+- 
+  id: 4
+  name: "Rolando"
+  surname: "Caldas"
+  company: "Altia S.A."
+  title: "Analista Programador"
+  bio: "Miembro activo de la comunidad de PHP Vigo y un fan absoluto del Clean Code y de DDD. Aunque actualmente soy Programador Senior en Altia, gran parte de mi vida he disfrutado fusionando el mundo del desarrollo con el Marketing como CTO de Roi Scroll e Interacción CIM. En mis inicios estuve involucrado en el software libre a través de la comunidad TruZone."
+  thumbnailUrl: rolando-caldas-taller-solid.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rolandocaldas/"}
+    - {name: "twitter", link: "https://twitter.com/rolando_caldas"}
+
+- 
+  id: 5
+  name: "Daniel"
+  surname: "Vaqueiro"
+  company: "Boardfy"
+  title: "CTO"
+  bio: "Miembro activo de la comunidad de PHP Vigo, entusiasta de los principios SOLID y del Clean Code, actualmente es CTO en Boardfy."
+  thumbnailUrl: daniel-vaqueiro-taller-solid.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dvaqueiro/"}
+    - {name: "twitter", link: "https://twitter.com/chimidea"}
+
+- 
+  id: 6
+  name: "Iago"
+  surname: "Elizechea Mateos"
+  company: "Teimas"
+  title: "CTO"
+  bio: "Ingeniero en Informática por la UDC. Tras su paso por DMR (ahora Everis) y Seidor (ambas en BCN), y después de montar el departamento de desarrollo de Seidor en Coruña, dio un vuelco a su carrera: Primero colaborando en la creación y gestión del CITIC (Centro tecnológico de las TIC de la UDC) y finalmente creando TEIMAS con sus 3 de sus compañeros de carrera."
+  thumbnailUrl: IagoElizechea-tallerRRHH.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/elizechea/"}
+
+- 
+  id: 7
+  name: "Cristina"
+  surname: "Vázquez Muiño"
+  company: "Teimas"
+  title: "Project Manager"
+  bio: "Ingeniera informática y apasionada del mundo de los residuos. He pasado por varias etapas en estos últimos años que me han permitido desarrollar software (fundamentalmente en Ruby on Rails), coordinar equipos de desarrollo, crear y coordinar equipos de soporte y atención al cliente, dirigir proyectos y participar de forma activa en el análisis y gestión del cambio en distintas empresas clientes. En la actualidad, lidero el equipo de Teixo (dentro de Teimas), producto que desarrollamos, soportamos y comercializamos íntegramente dentro de la casa con un equipo pequeño."
+  thumbnailUrl: CristinaVazquez-tallerRRHH.JPG
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cristina-vázquez-muiño-48b06727/"}
+
+- 
+  id: 8
+  name: "Joaquín"
+  surname: "Martínez Diz"
+  company: "Teimas"
+  title: "Senior Developer"
+  bio: "Desarrollador e investigador por naturaleza, siempre tengo interés en la búsqueda de nuevos retos y diseños. Durante mi experiencia profesional he desarrollado aplicaciones SaaS, móviles y de escritorio, todas ellas siempre orientadas a cliente. Mi dedicación actual es el desarrollo de soluciones SaaS orientadas a la gestión de residuos en la empresa Teimas Desenvolvemento. En mi tiempo libre me dedico a perseguir quimeras, lenguajes de programación y a algún que otro cliente."
+  thumbnailUrl: Joaquin-ReactNative.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/joaquín-martínez-diz-4704b686/"}
+
+- 
+  id: 9
+  name: "Iria"
+  surname: "Ollero Cadilla"
+  company: "Estudiante"
+  title: "Estudiante Ingeniería Biomédica en la Universidad de Vigo"
+  bio: "Tengo 19 años, soy de Ourense y estudio ingeniería biomédica en la Universidad de Vigo. Con 14 años empecé a asistir a unas aulas de investigación en el Parque Tecnológico de Galicia, desde ese año desarrollé 4  proyectos de investigación y participé en un total de 15 ferias por toda España y alguna internacional."
+  thumbnailUrl: IriaOllero-CreciendoCiencia.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ollero_iria"}
+
+- 
+  id: 10
+  name: "Cristina"
+  surname: "R. Pampín"
+  company: "Trisquel International School y Vermislab"
+  title: "Maestra de educación primaria y Maker en Vermislab"
+  bio: "Actualmente soy maker en Vermislab, además de estudiar Desarrollo de Aplicaciones Web en IES San Clemente. Soy maestra de educación primaria desde 2016 y he trabajado dos años en un colegio mezclando la tecnología con la innovación educativa. Co-organizo GDG Santiago y Compostela Tech desde febrero de 2019 con el objetivo de mejorar la comunidad tecnológica gallega. Soy Woman TechMakers Ambassador desde abril de 2019 para fomentar la diversidad en el ámbito tech."
+  thumbnailUrl: cristina-r-pampin-taller-html-css.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cristinarpampin/"}
+    - {name: "twitter", link: "https://twitter.com/cristina_pampin"}
+
+- 
+  id: 11
+  name: "Romulo"
+  surname: "Cintra"
+  company: "Silk Aplicaciones"
+  title: "Senior Architect"
+  bio: "Tecnólogo entusiasta con más de 10 años de experiencia desarrollo de software y arquitecturas. Colaborador en proyectos de código abierto y blogger a tiempo parcial. Su objetivo principal es democratizar la tecnología y dotar de herramientas a los desarrolladores, equipos y empresas, principalmente en el sector financiero, para construir mejores productos. Enfocado en la Web, los dispositivos móviles y la nube. Amante y defensor del futuro de Internet y la cultura tecnológica descentralizada donde todo el mundo está conectado."
+  thumbnailUrl: Romulo-Charla-PWA.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/romulocintra/"}
+    - {name: "twitter", link: "https://twitter.com/romulocintra"}
+
+- 
+  id: 12
+  name: "Moisés"
+  surname: "Martínez"
+  company: "Sngular"
+  title: "BigData and AI Architect"
+  bio: "Soy Doctor en Inteligencia Artificial especializado en las áreas de robótica, planificación automática y aprendizaje automático. Además, soy organizador de T3chfest y Madrid Google Cloud Developer group, speaker en diferente meetups y GDE en Machine Learning."
+  thumbnailUrl: moises-martinez-charla-modelos-ml-edge.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/momartinm/"}
+    - {name: "twitter", link: "https://twitter.com/moisipm"}
+
+- 
+  id: 13
+  name: "Estefanía"
+  surname: "García Gallardo"
+  title: "Estudiante"
+  bio: "Desarrollador de software de Málaga, amante de todo lo demás, colabora con la comunidad de código abierto y corrige errores en 2AM."
+  thumbnailUrl: Estefania-charlaRxJS.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/estefanía-garcía-gallardo-aaba81183/"}
+    - {name: "github", link: "https://github.com/NyaGarcia"}
+    - {name: "twitter", link: "https://twitter.com/Nyablk"}
+
+- 
+  id: 14
+  name: "Carlos"
+  surname: "Caballero González"
+  company: "Junta de Andalucía"
+  title: "Profesor Formación Profesional"
+  bio: "Ingeniero Informático y Doctor en Informática por la Universidad de Málaga. Máster en Ingeniería de Software e Inteligencia Artificial."
+  thumbnailUrl: Carlos-charlaRxJS.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/carloscaballerogonzalez/"}
+    - {name: "github", link: "https://github.com/caballerog"}
+    - {name: "twitter", link: "https://twitter.com/Carlillo"}
+
+- 
+  id: 15
+  name: "Cristina"
+  surname: "Díaz García"
+  company: "Universidad de Málaga"
+  title: "Estudiante de Ingeniería Informática en la Universidad de Málaga"
+  bio: "Estudiante de Ingeniería Informática en la UMA. Apasionada de la tecnología, organizadora de eventos y adoradora de pingüinos."
+  thumbnailUrl: CristinaDiaz-TallerCloud.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ladynightmare_2"}
+
+- 
+  id: 16
+  name: "Pablo"
+  surname: "Rodríguez"
+  company: "HAck a BOS"
+  title: "Director"
+  bio: "Con formación inicial en el campo tecnológico, mi aprendizaje ha estado orientado después hacia el desarrollo de personas, habiéndome formado en RRHH, psicología y coaching, siendo una de las 25 personas en todo el mundo formadas por los padres de dicha metodología.<br/>
+Posteriormente y con el objeto de aprender sobre organizaciones he estudiado LEGO© SERIOUS PLAY™ Training con su creador, Entrepreneurship en el MIT, diferentes programas de Marketing en The Wharton School y en el Instituto de Empresa y, de nuevo, un Programa de Alta Dirección en el Instituto de Empresa, una de las mejores escuelas de negocios del mundo.<br/>
+Durante mi carrera he estado liderando y desarrollando diferentes proyectos tecnológicos siendo pionero en este sector. Estuve en el equipo inicial de Softonic.com, el portal #1 del mundo de descargas de software y he sido fundador del primer sistema de residencias de ancianos (2004) y de gestión de centros educativos (2005) en la nube, así como de uno de los primeros sistemas de reservas de servicios domésticos online -Domesting- por el cual he obtenido diferentes premios y reconocimientos.<br/>
+Asimismo he participado en el desarrollo de personas -más de 2.500 de cara al desarrollo de competencias de gestión de equipos, liderazgo y comunicación- y organizaciones desde el ámbito del coaching y la formación, siendo algunas de éstas Burson & Marsteller, Ericsson, Grupo Calvo o Toyota, lo que me da un conocimiento multicultural y de diferentes metodologías aplicables a cualquier empresa, de cualquier tamaño y sector. "
+  thumbnailUrl: pablo-rodriguez-charla-remote-culture.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pablorodriguezgonzalez"}
+    - {name: "twitter", link: "https://twitter.com/Pablo_HackaBOS"}
+
 # - 
 #   id: 4
 #   name: "Fernando"
@@ -22,102 +191,3 @@
 #     - {name: "linkedin", link: "https://www.linkedin.com/in/fernandosouto/"}
 #     - {name: "twitter", link: "https://twitter.com/ficiverson"}
 #     - {name: "github", link: "https://github.com/ficiverson"}
-# - 
-#   id: 5
-#   name: "Rolando"
-#   surname: "Caldas"
-#   company: "Altia S.A."
-#   title: "Programador Senior en Altia y ex-CTO de Roi Scroll"
-#   bio: "Miembro activo de la comunidad de PHP Vigo y un fan absoluto del Clean Code y de DDD. Aunque actualmente soy Programador Senior en Altia, gran parte de mi vida he disfrutado fusionando el mundo del desarrollo con el Marketing como CTO de Roi Scroll e Interacción CIM. En mis inicios estuve involucrado en el software libre a través de la comunidad TruZone."
-#   thumbnailUrl: RolandoCaldas.png
-#   rockstar: true
-#   social: 
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/rolandocaldas/"}
-#     - {name: "twitter", link: "https://twitter.com/rolando_caldas"}
-# - 
-#   id: 7
-#   name: "Mercedes"
-#   surname: "Rodríguez"
-#   company: "1millionBot"
-#   title: "R&D Manager"
-#   bio: "Mercedes es traductora y programadora y actualmente trabaja para la empresa 1millionbot desarrollando chatbots y actions on Google. Entre sus desarrollos están Lola, un chatbot que proporciona información a los alumnos de la universidad de Murcia; o el action Observatorio Fintech, en el que puedes hablar con Criptina, una experta en criptomonedas y blockchain."
-#   thumbnailUrl: MercedesRodriguez.png
-#   rockstar: true
-#   social: 
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/mrodriguez-garcia/"}
-#     - {name: "twitter", link: "https://twitter.com/mgarod3"}
-
-# -
-#   id: 8
-#   name: "Bárbara"
-#   surname: "Román"
-#   company: "NoLegalTech"
-#   title: "CEO y co-fundadora de NoLegalTech"
-#   bio: "Abogada especializada en derecho tecnológico, actualmente CEO en NoLegalTech. Co-organizadora del San Simón Blockchain Fórum y del Congreso legaltech de Donosti, responsable de la plataforma Ellaslegal.tech, es una apasionada de la innovación legal."
-#   thumbnailUrl: BarbaraRoman.png
-#   rockstar: true
-#   social: 
-#     - {name: "linkedin", link: "https://www.linkedin.com/mynetwork/invite-sent/bárbara-román-méndez-3b1b80138"}
-#     - {name: "twitter", link: "https://twitter.com/abogadopenal"}
-# # - 
-# #   id: 9
-# #   name: "Rita"
-# #   surname: "Pereira"
-# #   company: "MOBGEN | Part of Accenture Digital"
-# #   title: "IOS Developer"
-# #   bio : "Rita actualmente trabaja como IOS developer en Mogben. Participa habitualmente impartiendo charlas en eventos de tecnología, como Women Techmakers Galicia 2018."
-# #   thumbnailUrl: RitaPereira.png
-# #   rockstar: true
-# #   social: 
-# #     - {name: "linkedin", link: "https://www.linkedin.com/in/rita-pereira-calvi%C3%B1o-1a969b40/"}
-# #     - {name: "twitter", link: "https://twitter.com/rita_pereirac"}
-# -
-#   id: 10
-#   name: "Javier"
-#   surname: "Provecho"
-#   company: "Telefónica"
-#   title: "Release Engineer at 4th Platform"
-#   bio: "Javier es un ingeniero de despliegue y <i>GDE for Cloud</i> que trabaja con la herramienta Cloud Native para implementar y escalar proyectos cloud. Coorganiza la comunidad de Docker Madrid y otros grupos de la región. También mantiene el framework web Gin-Gonic. A Javier le gusta leer novelas históricas y volar su dron por el horizonte."
-#   thumbnailUrl: JavierProvecho.png
-#   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/javierprovecho/"}
-#     - {name: "twitter", link: "https://twitter.com/javierprovecho"}
-#   ribbon:
-#     - {abbr: "GDE for Cloud", title: "Google Developer Expert for Cloud", url: "https://developers.google.com/experts/"}
-# -
-#   id: 11
-#   name: "Betsabeth "
-#   surname: "Torres"
-#   company: "Freelance y RailsGirls Venezuela"
-#   title: "Freelance Web Developer"
-#   bio: "Líder y fundadora de la comunidad @railsgirlsve. Activista de software libre y apasionada por la ciberseguridad y el desarrollo de software."
-#   thumbnailUrl: BetsabethTorres.jpg
-#   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/betsabethtorres/"}
-#     - {name: "twitter", link: "https://twitter.com/kyaalena"}
-# -
-#   id: 12
-#   name: "Marta"
-#   surname: "Sestelo"
-#   company: "Gradiant"
-#   title: "PhD Statistics & Senior Data Scientist"
-#   bio: "Marta es Senior Data Scientist en Gradiant (Centro de Investigación y Desarrollo de Galicia en Telecomunicaciones Avanzadas). Anteriormente, fue investigadora postdoctoral en el Centro de Matemáticas (CMAT) de la Universidad de Minho. Posee un doctorado de la Universidad de Vigo en Estadística y O.R. Su especialidad se centra en el desarrollo de nuevas metodologías y algoritmos vinculados con la estadística."
-#   thumbnailUrl: MartaSestelo.png
-#   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/marta-sestelo-0122895a/"}
-#     - {name: "site", link: "http://sestelo.github.io"}
-# -
-#   id: 13
-#   name: "Nora M."
-#   surname: "Villanueva"
-#   company: "Gradiant"
-#   title: "Senior Researcher - Data Scientist"
-#   bio: "Nora es Senior Researcher y Data Scientist at @Gradiant. Actualmente es estudiante Phd en Estadística y O.R. por la Universidad de Vigo."
-#   thumbnailUrl: NoraVillanueva.png
-#   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/in/nora-m-villanueva-9073781b/"}
-#     - {name: "site", link: "http://noramvillanueva.github.io"}
