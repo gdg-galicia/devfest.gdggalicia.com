@@ -85,7 +85,7 @@ Acompáñame en esta charla para adentrarnos en lo profundo de TensorFlow para c
 
 -
   id: 006
-  title: "Cómo ser un Big Data Architect en Google Cloud sin serlo!"
+  title: "Ejecutando trabajos serverless en GCP"
   description: "Estefanía nos explicará la realidad de montar una plataforma Big Data actual utilizando los servicios que ofrece Google Cloud Platform. Una plataforma cuya arquitectura sea completa, de alto rendimiento, escalable y sin morir en el intento."
   subtype: presentation
   speakers: [3]

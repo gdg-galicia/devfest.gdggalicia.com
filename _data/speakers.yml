@@ -103,12 +103,14 @@
   surname: "Cintra"
   company: "Silk Aplicaciones"
   title: "Senior Architect"
-  bio: "Tecnólogo entusiasta con más de 10 años de experiencia desarrollo de software y arquitecturas. Colaborador en proyectos de código abierto y blogger a tiempo parcial. Su objetivo principal es democratizar la tecnología y dotar de herramientas a los desarrolladores, equipos y empresas, principalmente en el sector financiero, para construir mejores productos. Enfocado en la Web, los dispositivos móviles y la nube. Amante y defensor del futuro de Internet y la cultura tecnológica descentralizada donde todo el mundo está conectado."
+  bio: "Entusiasta de la tecnología con más de 10 años desarrollando y compartiendo. Colaborador en proyectos Open Source, TC39 Delegate enamorado de los Web Components y bajista en los tiempo libres. <br/>
+  Su objetivo principal es democratizar la tecnología y dotar de herramientas a los desarrolladores, equipos y empresas,  para construir mejores productos."
   thumbnailUrl: Romulo-Charla-PWA.png
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/romulocintra/"}
     - {name: "twitter", link: "https://twitter.com/romulocintra"}
+    - {name: "github", link: "https://github.com/romulocintra"}
 
 - 
   id: 12
@@ -140,8 +142,7 @@
   id: 14
   name: "Carlos"
   surname: "Caballero González"
-  company: "Junta de Andalucía"
-  title: "Profesor Formación Profesional"
+  title: "Profesor de Universidad y Formación Profesional"
   bio: "Ingeniero Informático y Doctor en Informática por la Universidad de Málaga. Máster en Ingeniería de Software e Inteligencia Artificial."
   thumbnailUrl: Carlos-charlaRxJS.jpg
   rockstar: true
@@ -166,12 +167,11 @@
   id: 16
   name: "Pablo"
   surname: "Rodríguez"
-  company: "HAck a BOS"
+  company: "HAck a BOSS"
   title: "Director"
-  bio: "Con formación inicial en el campo tecnológico, mi aprendizaje ha estado orientado después hacia el desarrollo de personas, habiéndome formado en RRHH, psicología y coaching, siendo una de las 25 personas en todo el mundo formadas por los padres de dicha metodología.<br/>
-Posteriormente y con el objeto de aprender sobre organizaciones he estudiado LEGO© SERIOUS PLAY™ Training con su creador, Entrepreneurship en el MIT, diferentes programas de Marketing en The Wharton School y en el Instituto de Empresa y, de nuevo, un Programa de Alta Dirección en el Instituto de Empresa, una de las mejores escuelas de negocios del mundo.<br/>
-Durante mi carrera he estado liderando y desarrollando diferentes proyectos tecnológicos siendo pionero en este sector. Estuve en el equipo inicial de Softonic.com, el portal #1 del mundo de descargas de software y he sido fundador del primer sistema de residencias de ancianos (2004) y de gestión de centros educativos (2005) en la nube, así como de uno de los primeros sistemas de reservas de servicios domésticos online -Domesting- por el cual he obtenido diferentes premios y reconocimientos.<br/>
-Asimismo he participado en el desarrollo de personas -más de 2.500 de cara al desarrollo de competencias de gestión de equipos, liderazgo y comunicación- y organizaciones desde el ámbito del coaching y la formación, siendo algunas de éstas Burson & Marsteller, Ericsson, Grupo Calvo o Toyota, lo que me da un conocimiento multicultural y de diferentes metodologías aplicables a cualquier empresa, de cualquier tamaño y sector. "
+  bio: "Del equipo inicial de Softonic y linuxero de corazón, he estado siempre vinculado a la tecnología. Emprendedor en serie, con éxitos y fracasos, estoy ahora haciendo cosas chulas en Hack a BOSS, lo que me ha permitido juntar mis grandes pasiones: personas y tecnología.<br />
+He contribuido al desarrollo de más de 2.500 personas y sus competencias pero también liderado los primeros proyectos en la nube allá por 2003. He sido parte de proyectos en grandes multinacionales pero también en startups, lo que me da un conocimiento multicultural y de diferentes metodologías aplicables a cualquier empresa, de diferentes tamaños y sectores.<br />
+Conocí el trabajo con equipos deslocalizados (y otras cosas ;-) en una multinacional holandesa hace 20 años, anticipando el futuro de lo que yo creo es ya tendencia."
   thumbnailUrl: pablo-rodriguez-charla-remote-culture.png
   rockstar: true
   social: 
