@@ -50,8 +50,8 @@ c4sponsorsUrl: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTok
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- #- {permalink: "/schedule/", text: "Agenda"}
- #- {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Ubicación"}
  - {permalink: "/code-of-conduct/", text: "Código de conducta"}
