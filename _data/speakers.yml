@@ -42,8 +42,8 @@
   surname: "Elizechea Mateos"
   company: "Teimas"
   title: "CTO"
-  bio: "Ingeniero en Informática por la UDC. Tras su paso por DMR (ahora Everis) y Seidor (ambas en BCN), y después de montar el departamento de desarrollo de Seidor en Coruña, dio un vuelco a su carrera: Primero colaborando en la creación y gestión del CITIC (Centro tecnológico de las TIC de la UDC) y finalmente creando TEIMAS con sus 3 de sus compañeros de carrera."
-  thumbnailUrl: IagoElizechea-tallerRRHH.jpg
+  bio: "Ingeniero en Informática por la UDC. Tras su paso por DMR (ahora Everis) y Seidor (ambas en BCN), y después de montar el departamento de desarrollo de Seidor en Coruña, dio un vuelco a su carrera: Primero colaborando en la creación y gestión del CITIC (Centro tecnológico de las TIC de la UDC) y finalmente creando TEIMAS con 3 de sus compañeros de carrera"
+  thumbnailUrl: IagoElizechea-tallerRRHH.jpeg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/elizechea/"}
