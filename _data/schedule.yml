@@ -58,7 +58,24 @@
   date: "2019-10-26"
   dateReadable: "Workshops (Track 1)"
   tracks: 
-    - {title: "Workshops (Track 1)", color: "#03a9f4"}
+    - {title: "Workshops", color: "#03a9f4"}
+  timeslots: 
+    - {
+            startTime: "10:30",
+            endTime: "12:30",
+            sessionIds: [010]
+        }
+    - {
+        startTime: "15:00",
+        endTime: "17:00",
+        sessionIds: [011]
+    }
+
+- 
+  date: "2019-10-26"
+  dateReadable: "Workshops (Track 2)"
+  tracks: 
+    - {title: "Workshops", color: "#03a9f4"}
   timeslots: 
     - {
         startTime: "10:30",
@@ -74,20 +91,4 @@
         startTime: "15:00",
         endTime: "17:00",
         sessionIds: [009]
-    }
-- 
-  date: "2019-10-26"
-  dateReadable: "Workshops (Track 2)"
-  tracks: 
-    - {title: "Workshops (Track 2)", color: "#03a9f4"}
-  timeslots: 
-    - {
-        startTime: "10:30",
-        endTime: "12:30",
-        sessionIds: [010]
-    }
-    - {
-        startTime: "15:00",
-        endTime: "17:00",
-        sessionIds: [011]
     }
