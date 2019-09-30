@@ -69,8 +69,8 @@ eventData: "ESEI - Escola Superior de Enxeñería Informática, Ourense, 17 de n
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Galicia"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfxLCyXuO9zuC3y8bKuX3qLxlnBNvQ-wzMHti_QF0ltPgKasg/viewform", text: "Quiero dar una charla"}
- - {link: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform", text: "Quiero patrocinar"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfxLCyXuO9zuC3y8bKuX3qLxlnBNvQ-wzMHti_QF0ltPgKasg/viewform", text: "Quiero dar una charla"}
+# - {link: "https://docs.google.com/forms/d/11O18wL7OdRonm0eKnNMRKfHk1xnmTokq9q59oDlkwLU/viewform", text: "Quiero patrocinar"}
 # - {link: "https://www.eventbrite.com/e/gdg-devfest-galicia-2018-tickets-51926034166", text: "Quiero asistir - Entrada gratuita"}
 
 # About Block
