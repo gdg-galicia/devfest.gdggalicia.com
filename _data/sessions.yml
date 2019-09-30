@@ -59,15 +59,14 @@ Acompáñame en esta charla para adentrarnos en lo profundo de TensorFlow para c
 
 -
   id: 004
-  title: "Cultura de trabajo en remoto"
+  title: "Smartworking: trabajo en remoto"
   description: "
   <ol>
-    <li>Algunos datos sobre trabajo en remoto.</li>
-    <li>Empresas con cultura de trabajo remoto. ¿Es posible trabajar 100% en remoto?</li>
-    <li>¿Cómo implantar el trabajo en remoto en tu empresa?</li>
+    <li>Intro: algunos datos sobre el smartworking.</li>
+    <li>Beneficios y retos.</li>
+    <li>¿Cómo implantar el smartworking en tu empresa? Buena praxis.</li>
     <li>¿Qué herramientas utilizar?</li>
-    <li>¿Cuáles son los beneficios y desventajas del trabajo en remoto?</li>
-    <li>Algunos consejos para trabajar en remoto.</li>
+    <li>Algunos consejos.</li>
   </ol>"
   subtype: presentation
   speakers: [16]
