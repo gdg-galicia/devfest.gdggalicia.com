@@ -30,6 +30,18 @@
   service: true
 
 -
+  id: 504
+  title: "Coffee break"
+  place: "Hall"
+  service: true
+
+-
+  id: 505
+  title: "Coffee break"
+  place: "Hall"
+  service: true
+
+-
   id: 001
   title: "Construyendo modelos para dispositivos edge TPU"
   description: "En los últimos años, el uso de modelos basados ​​en el Aprendizaje Automático (AA) se ha vuelto muy popular. El AA nos permite construir modelos para la detección/clasificación o regresión de manera sencilla, pero en muchos casos el coste computacional de utilizarlos puede ser muy elevado sobre todo en pequeños dispositivos con baja capacidad de computo, los cuales han comenzado a poblar nuestras casas, oficinas y ciudades. ¿Cómo podemos utilizar nuestros modelos en dispositivos con diferentes capacidades, como por ejemplo las nuevas Edge TPUs?<br/>

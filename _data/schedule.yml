@@ -1,94 +1,122 @@
-- 
-  date: "2019-10-26"
+- date: "2019-10-26"
   dateReadable: "Charlas"
-  tracks: 
+  tracks:
     - {title: "Charlas", color: "#e91e63"}
   timeslots:
     - {
-        startTime: "9:30",
-        endTime: "10:00",
-        sessionIds: [500]
+      startTime: "9:00",
+      endTime: "09:30",
+      sessionIds: [500]
     }
     - {
-        startTime: "10:00",
-        endTime: "10:30",
-        sessionIds: [501]
+      startTime: "9:30",
+      endTime: "10:00",
+      sessionIds: [501]
     }
     - {
-        startTime: "10:30",
-        endTime: "11:30",
-        sessionIds: [001]
+      startTime: "10:00",
+      endTime: "11:00",
+      sessionIds: [001]
     }
     - {
-    	startTime: "11:30",
-        endTime: "12:30",
-        sessionIds: [002]
+      startTime: "11:00",
+      endTime: "12:00",
+      sessionIds: [002]
     }
     - {
-        startTime: "12:30",
-        endTime: "13:30",
-        sessionIds: [003]
+      startTime: "12:00",
+      endTime: "12:30",
+      sessionIds: [504]
     }
     - {
-        startTime: "13:30",
-        endTime: "15:00",
-        sessionIds: [503]
+      startTime: "12:30",
+      endTime: "13:30",
+      sessionIds: [003]
     }
     - {
-        startTime: "15:00",
-        endTime: "16:00",
-        sessionIds: [004]
+      startTime: "13:30",
+      endTime: "15:00",
+      sessionIds: [503]
     }
     - {
-        startTime: "16:00",
-        endTime: "17:00",
-        sessionIds: [005]
+      startTime: "15:00",
+      endTime: "16:00",
+      sessionIds: [004]
     }
     - {
-        startTime: "17:00",
-        endTime: "18:00",
-        sessionIds: [006]
+      startTime: "16:00",
+      endTime: "17:00",
+      sessionIds: [005]
     }
     - {
-        startTime: "18:00",
-        endTime: "18:30",
-        sessionIds: [502]
+      startTime: "17:00",
+      endTime: "17:30",
+      sessionIds: [505]
     }
-- 
-  date: "2019-10-26"
+    - {
+      startTime: "17:30",
+      endTime: "18:30",
+      sessionIds: [006]
+    }
+    - {
+      startTime: "18:30",
+      endTime: "18:45",
+      sessionIds: [502]
+    }
+- date: "2019-10-26"
   dateReadable: "Workshops (Track 1)"
-  tracks: 
+  tracks:
     - {title: "Workshops", color: "#03a9f4"}
-  timeslots: 
+  timeslots:
     - {
-            startTime: "10:30",
-            endTime: "12:30",
-            sessionIds: [010]
-        }
+      startTime: "10:00",
+      endTime: "12:00",
+      sessionIds: [010]
+    }
     - {
-        startTime: "15:00",
-        endTime: "17:00",
-        sessionIds: [011]
+      startTime: "12:00",
+      endTime: "12:30",
+      sessionIds: [504]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "15:00",
+      sessionIds: [503]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "17:00",
+      sessionIds: [011]
     }
 
-- 
-  date: "2019-10-26"
+- date: "2019-10-26"
   dateReadable: "Workshops (Track 2)"
-  tracks: 
+  tracks:
     - {title: "Workshops", color: "#03a9f4"}
-  timeslots: 
+  timeslots:
     - {
-        startTime: "10:30",
-        endTime: "12:15",
-        sessionIds: [007]
+      startTime: "10:00",
+      endTime: "12:00",
+      sessionIds: [007]
     }
     - {
-        startTime: "12:30",
-        endTime: "13:30",
-        sessionIds: [008]
+      startTime: "12:00",
+      endTime: "12:30",
+      sessionIds: [504]
     }
     - {
-        startTime: "15:00",
-        endTime: "17:00",
-        sessionIds: [009]
+      startTime: "12:30",
+      endTime: "13:30",
+      sessionIds: [008]
     }
+    - {
+      startTime: "13:30",
+      endTime: "15:00",
+      sessionIds: [503]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "17:00",
+      sessionIds: [009]
+    }
+
