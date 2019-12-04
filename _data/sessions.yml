@@ -50,6 +50,8 @@ Acompáñame en esta charla para adentrarnos en lo profundo de TensorFlow para c
   speakers: [12]
   language: Español
   complexity: "Intermedia"
+  presentation: "//drive.google.com/open?id=1ja9EJU2uA0M5FGAM2NVgySRyYbmwn-sX"
+  video: "//www.youtube.com/embed/vNqiSrOu6xk"
 
 -
   id: 002
@@ -59,6 +61,8 @@ Acompáñame en esta charla para adentrarnos en lo profundo de TensorFlow para c
   speakers: [9]
   language: Español
   complexity: "Básico"
+  presentation: ""
+  video: "//www.youtube.com/embed/8osCf-TELlA"
 
 -
   id: 003
@@ -68,6 +72,8 @@ Acompáñame en esta charla para adentrarnos en lo profundo de TensorFlow para c
   speakers: [11]
   language: Español
   complexity: "Intermedia"
+  presentation: "//google-devfestgal-pwa-talk.glitch.me"
+  video: "//www.youtube.com/embed/RSh9zOOCBVs"
 
 -
   id: 004
@@ -84,6 +90,8 @@ Acompáñame en esta charla para adentrarnos en lo profundo de TensorFlow para c
   speakers: [16]
   language: Español
   complexity: "Básico"
+  presentation: "//drive.google.com/open?id=0ByQMY8a2gVEvbW56dWpIRTU2bGVqRjZTcEh3QU1hOU9YZVh3"
+  video: "//www.youtube.com/embed/tXqbNUlbRlU"
 
 -
   id: 005
@@ -93,6 +101,8 @@ Acompáñame en esta charla para adentrarnos en lo profundo de TensorFlow para c
   speakers: [13,14]
   language: Español
   complexity: "Intermedia"
+  presentation: "//docs.google.com/presentation/d/e/2PACX-1vQuiITt942ujskqWAyo84MAYaOHR9Ku0YJ-UOzmw4U_yXkowKvNb6tV-tdTrKDXVR3BwLywJx9i9ikP/pub?start=false&loop=false"
+  video: "//www.youtube.com/embed/ikwO-6I37Mo"
 
 -
   id: 006
@@ -102,6 +112,8 @@ Acompáñame en esta charla para adentrarnos en lo profundo de TensorFlow para c
   speakers: [3]
   language: Español
   complexity: "Intermedia"
+  presentation: "//drive.google.com/open?id=1OVVwgpZjTo1OVxOb9ScqslACWNvUbPx4"
+  video: "//www.youtube.com/embed/BtILG9WvBGw"
 
 -
   id: 007
@@ -113,6 +125,7 @@ El objetivo de este taller práctico será acercar está tecnología a los desar
   speakers: [8]
   language: Español
   complexity: "Intermedio"
+  presentation: "//github.com/jmartinezdiz/workshop-ufo-game"
 
 -
   id: 008
@@ -128,6 +141,7 @@ Esta es nuestra visión de la incorporación de personal para una empresa peque�
   speakers: [6,7]
   language: Español
   complexity: "Introductorio"
+  presentation: "//drive.google.com/open?id=1xyYuu4ZAS-TLyYbu_Y_LT40Cpu91BcnY"
 
 -
   id: 009
@@ -138,6 +152,7 @@ Taller realizado de forma conjunta por Rolando Caldas (Analista Programador en A
   speakers: [4,5]
   language: Español
   complexity: "Intermedio"
+  presentation: "//drive.google.com/open?id=1Fi0R0iq1ht_8Q5QLvT6MQU770I55vdJ8"
 
 -
   id: 010
@@ -156,6 +171,7 @@ Taller realizado de forma conjunta por Rolando Caldas (Analista Programador en A
   speakers: [15]
   language: Español
   complexity: "Introductorio"
+  presentation: "//drive.google.com/open?id=1qR10E11dDEEeEwMAylui50X1iHUTZiCc"
 
 
 # -
